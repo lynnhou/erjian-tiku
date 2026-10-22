@@ -1,0 +1,11531 @@
+{
+ "meta": {
+  "title": "二建建筑实务题库",
+  "total": 423,
+  "single": 167,
+  "multi": 88,
+  "judge": 168,
+  "version": 1
+ },
+ "questions": [
+  {
+   "type": "single",
+   "question": "下列属于永久作用的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "温度作用"
+    },
+    {
+     "key": "B",
+     "text": "风荷载"
+    },
+    {
+     "key": "C",
+     "text": "预应力"
+    },
+    {
+     "key": "D",
+     "text": "地震"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "建筑结构",
+   "chapter": "建筑结构与抗震",
+   "id": 1
+  },
+  {
+   "type": "single",
+   "question": "建筑高度60米的住宅属于（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "单层建筑"
+    },
+    {
+     "key": "B",
+     "text": "多层建筑"
+    },
+    {
+     "key": "C",
+     "text": "高层建筑"
+    },
+    {
+     "key": "D",
+     "text": "超高层建筑"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "建筑结构",
+   "chapter": "建筑结构与抗震",
+   "id": 2
+  },
+  {
+   "type": "multi",
+   "question": "下列属于直接作用的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "结构自重"
+    },
+    {
+     "key": "B",
+     "text": "设备使用荷载"
+    },
+    {
+     "key": "C",
+     "text": "雪荷载"
+    },
+    {
+     "key": "D",
+     "text": "混凝土收缩作用"
+    },
+    {
+     "key": "E",
+     "text": "沉降作用"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C"
+   ],
+   "analysis": "",
+   "topic": "建筑结构",
+   "chapter": "建筑结构与抗震",
+   "id": 3
+  },
+  {
+   "type": "judge",
+   "question": "装配式混凝土建筑具有施工速度快、利于冬期施工、生产效率高、产品质量好、减少了物料损耗等特点。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 4
+  },
+  {
+   "type": "judge",
+   "question": "预制构件节点及接缝处后浇混凝土强度等级应小于预制构件的混凝土强度等级。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 5
+  },
+  {
+   "type": "single",
+   "question": "模板工程设计的主要原则不包括的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "实用性"
+    },
+    {
+     "key": "B",
+     "text": "安全性"
+    },
+    {
+     "key": "C",
+     "text": "适用性"
+    },
+    {
+     "key": "D",
+     "text": "经济性"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "模板工程施工",
+   "chapter": "模板工程",
+   "id": 6
+  },
+  {
+   "type": "single",
+   "question": "关于模板拆除的说法，错误的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "先支的后拆，后支的先拆"
+    },
+    {
+     "key": "B",
+     "text": "先拆非承重模板，后拆承重模板"
+    },
+    {
+     "key": "C",
+     "text": "从下而上进行拆除"
+    },
+    {
+     "key": "D",
+     "text": "当混凝土强度达到规定要求时，方可拆除底模及支架"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "模板工程施工",
+   "chapter": "模板工程",
+   "id": 7
+  },
+  {
+   "type": "multi",
+   "question": "模板及其支撑应具有足够的（），能可靠地承受浇筑混凝土的重量、侧压力以及施工荷载。",
+   "options": [
+    {
+     "key": "A",
+     "text": "承载能力"
+    },
+    {
+     "key": "B",
+     "text": "强度"
+    },
+    {
+     "key": "C",
+     "text": "刚度"
+    },
+    {
+     "key": "D",
+     "text": "稳定性"
+    },
+    {
+     "key": "E",
+     "text": "厚度"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "模板工程施工",
+   "chapter": "模板工程",
+   "id": 8
+  },
+  {
+   "type": "judge",
+   "question": "柱模板主要解决垂直度、柱模板在施工时的侧向稳定及抵抗混凝土的侧压力的问题。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "模板工程施工",
+   "chapter": "模板工程",
+   "id": 9
+  },
+  {
+   "type": "judge",
+   "question": "模板及其支撑拆除的顺序原则为先支先拆、后支后拆。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "模板工程施工",
+   "chapter": "模板工程",
+   "id": 10
+  },
+  {
+   "type": "single",
+   "question": "钢筋绑扎时，每层柱第一个钢筋接头位置距楼地面高度不宜小于（）mm，柱高的1/6及柱截面长边（或直径）的较大值。",
+   "options": [
+    {
+     "key": "A",
+     "text": "300"
+    },
+    {
+     "key": "B",
+     "text": "500"
+    },
+    {
+     "key": "C",
+     "text": "600"
+    },
+    {
+     "key": "D",
+     "text": "800"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "钢筋工程施工",
+   "chapter": "钢筋工程",
+   "id": 11
+  },
+  {
+   "type": "single",
+   "question": "钢筋按化学成分分的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "光圆钢筋和带肋钢筋"
+    },
+    {
+     "key": "B",
+     "text": "碳素钢钢筋、普通低合金钢钢筋"
+    },
+    {
+     "key": "C",
+     "text": "钢丝、钢绞线、精钢筋"
+    },
+    {
+     "key": "D",
+     "text": "热轧钢筋和冷加工钢筋"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "钢筋工程施工",
+   "chapter": "钢筋工程",
+   "id": 12
+  },
+  {
+   "type": "multi",
+   "question": "关于混凝土拌制的二次投料法说法正确的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "二次投料法搅拌的混凝土与一次投料法相比较，混凝土强度可提高约15%。"
+    },
+    {
+     "key": "B",
+     "text": "二次投料法搅拌的混凝土与一次投料法在强度相同的情况下，可节约水泥约15-20%。"
+    },
+    {
+     "key": "C",
+     "text": "二次投料法又分为预拌水泥砂浆法、预拌水泥净浆法和水泥裹砂法三种"
+    },
+    {
+     "key": "D",
+     "text": "预拌水泥净浆法使水泥和砂石的接触面增大，水泥的潜力得到充分发挥，增强了混凝土的强度。"
+    },
+    {
+     "key": "E",
+     "text": "水泥裹砂法是先将水泥、砂和水加入搅拌筒内进行充分搅拌，成为均匀的水泥砂浆后，再投入石子搅拌成均匀的混凝土。"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "混凝土工程施工",
+   "chapter": "混凝土工程",
+   "id": 13
+  },
+  {
+   "type": "judge",
+   "question": "钢筋螺纹套筒连接适用于钢筋混凝土结构的热轧HRB335、HRB400级钢筋的连接施工，也可用于预应力钢筋的连接。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "钢筋工程施工",
+   "chapter": "钢筋工程",
+   "id": 14
+  },
+  {
+   "type": "judge",
+   "question": "钢筋代换时，梁的纵向受力钢筋与弯起钢筋可以同时进行代换。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "钢筋工程施工",
+   "chapter": "钢筋工程",
+   "id": 15
+  },
+  {
+   "type": "single",
+   "question": "自密实混凝土的最大特点是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "需要强力振捣才能密实"
+    },
+    {
+     "key": "B",
+     "text": "依靠自身自重和高流动性自动填充模板"
+    },
+    {
+     "key": "C",
+     "text": "仅适用于大体积混凝土工程"
+    },
+    {
+     "key": "D",
+     "text": "粗骨料最大粒径应大于20mm"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "混凝土工程施工",
+   "chapter": "混凝土工程",
+   "id": 16
+  },
+  {
+   "type": "single",
+   "question": "高强高性能混凝土的强度等级要求是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "≥C40"
+    },
+    {
+     "key": "B",
+     "text": "≥C50"
+    },
+    {
+     "key": "C",
+     "text": "≥C60"
+    },
+    {
+     "key": "D",
+     "text": "≥C80"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "混凝土工程施工",
+   "chapter": "混凝土工程",
+   "id": 17
+  },
+  {
+   "type": "multi",
+   "question": "再生骨料混凝土的核心价值和质量控制要点有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "实现建筑垃圾变废为宝，循环利用"
+    },
+    {
+     "key": "B",
+     "text": "再生骨料的颗粒级配、含泥量等指标需达标"
+    },
+    {
+     "key": "C",
+     "text": "可直接用于所有主体承重结构"
+    },
+    {
+     "key": "D",
+     "text": "需针对性优化配合比，调整外加剂掺量"
+    },
+    {
+     "key": "E",
+     "text": "与天然骨料相比，再生骨料吸水率更低"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "混凝土工程施工",
+   "chapter": "混凝土工程",
+   "id": 18
+  },
+  {
+   "type": "judge",
+   "question": "超高泵送混凝土坍落度宜大于180mm，以保证流动顺畅。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "混凝土工程施工",
+   "chapter": "混凝土工程",
+   "id": 19
+  },
+  {
+   "type": "judge",
+   "question": "自密实混凝土粗骨料最大粒径宜大于20mm，以提高强度。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "混凝土工程施工",
+   "chapter": "混凝土工程",
+   "id": 20
+  },
+  {
+   "type": "single",
+   "question": "主要承担斜截面剪力，并固定纵向钢筋位置的钢筋类型是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "受力筋"
+    },
+    {
+     "key": "B",
+     "text": "箍筋"
+    },
+    {
+     "key": "C",
+     "text": "架立筋"
+    },
+    {
+     "key": "D",
+     "text": "分布筋"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "钢筋工程施工",
+   "chapter": "钢筋工程",
+   "id": 21
+  },
+  {
+   "type": "single",
+   "question": "混凝土的力学性能特点是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "抗压能力强，抗拉能力弱"
+    },
+    {
+     "key": "B",
+     "text": "抗拉能力强，抗压能力弱"
+    },
+    {
+     "key": "C",
+     "text": "抗压和抗拉能力都强"
+    },
+    {
+     "key": "D",
+     "text": "抗压和抗拉能力都弱"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "混凝土工程施工",
+   "chapter": "混凝土工程",
+   "id": 22
+  },
+  {
+   "type": "multi",
+   "question": "以下属于钢筋工程新技术的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "高强钢筋应用技术"
+    },
+    {
+     "key": "B",
+     "text": "高强钢筋直螺纹连接技术"
+    },
+    {
+     "key": "C",
+     "text": "钢筋焊接网应用技术"
+    },
+    {
+     "key": "D",
+     "text": "预应力技术"
+    },
+    {
+     "key": "E",
+     "text": "现场手工绑扎技术"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "钢筋工程施工",
+   "chapter": "钢筋工程",
+   "id": 23
+  },
+  {
+   "type": "judge",
+   "question": "预应力技术可以提升构件的抗裂性。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "预应力工程",
+   "chapter": "预应力工程",
+   "id": 24
+  },
+  {
+   "type": "judge",
+   "question": "直螺纹连接接头的强度低于钢筋母材。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "钢筋工程施工",
+   "chapter": "钢筋工程",
+   "id": 25
+  },
+  {
+   "type": "single",
+   "question": "钢结构涂装时，CB类涂层厚度是（）mm。",
+   "options": [
+    {
+     "key": "A",
+     "text": "3-7"
+    },
+    {
+     "key": "B",
+     "text": "7-15"
+    },
+    {
+     "key": "C",
+     "text": "≤3"
+    },
+    {
+     "key": "D",
+     "text": "≥15"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "钢结构工程",
+   "chapter": "钢结构工程",
+   "id": 26
+  },
+  {
+   "type": "single",
+   "question": "下列不属于钢结构构件螺栓连接制孔方法的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "钻孔"
+    },
+    {
+     "key": "B",
+     "text": "气割"
+    },
+    {
+     "key": "C",
+     "text": "冲孔"
+    },
+    {
+     "key": "D",
+     "text": "镗孔"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "钢结构工程",
+   "chapter": "钢结构工程",
+   "id": 27
+  },
+  {
+   "type": "multi",
+   "question": "钢结构组装可采用的方法有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "专用设备装配法"
+    },
+    {
+     "key": "B",
+     "text": "地样法"
+    },
+    {
+     "key": "C",
+     "text": "仿形复制装配法"
+    },
+    {
+     "key": "D",
+     "text": "胎模装配法"
+    },
+    {
+     "key": "E",
+     "text": "现场制作法"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "钢结构工程",
+   "chapter": "钢结构工程",
+   "id": 28
+  },
+  {
+   "type": "judge",
+   "question": "高强度螺栓安装时应先使用安装螺栓和冲钉，也可兼作安装螺栓。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "钢结构工程",
+   "chapter": "钢结构工程",
+   "id": 29
+  },
+  {
+   "type": "judge",
+   "question": "焊接球焊缝应进行无损检验，其质量应符合设计要求；当设计无要求时，应符合规范规定的一级质量标准。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "钢结构工程",
+   "chapter": "钢结构工程",
+   "id": 30
+  },
+  {
+   "type": "single",
+   "question": "关于后张法预应力筋的张拉控制，下列说法正确的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "以控制张拉伸长值为主，张拉力值作校核"
+    },
+    {
+     "key": "B",
+     "text": "以控制张拉力值为主，张拉伸长值作校核"
+    },
+    {
+     "key": "C",
+     "text": "普通松弛预应力筋以控制张拉伸长值为主"
+    },
+    {
+     "key": "D",
+     "text": "低松弛预应力筋以控制张拉伸长值为主"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "预应力工程",
+   "chapter": "预应力工程",
+   "id": 31
+  },
+  {
+   "type": "single",
+   "question": "后张法无粘结预应力混凝土楼板施工中，预应力筋的张拉顺序是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "先张拉梁，后张拉板"
+    },
+    {
+     "key": "B",
+     "text": "先张拉板，后张拉梁"
+    },
+    {
+     "key": "C",
+     "text": "梁和板交替张拉"
+    },
+    {
+     "key": "D",
+     "text": "由施工方便确定"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "预应力工程",
+   "chapter": "预应力工程",
+   "id": 32
+  },
+  {
+   "type": "multi",
+   "question": "预应力混凝土按施工方式分为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "先张法预应力混凝土"
+    },
+    {
+     "key": "B",
+     "text": "预制预应力混凝土"
+    },
+    {
+     "key": "C",
+     "text": "现浇预应力混凝土"
+    },
+    {
+     "key": "D",
+     "text": "叠合预应力混凝土"
+    },
+    {
+     "key": "E",
+     "text": "后张法预应力混凝土"
+    }
+   ],
+   "answer": [
+    "B",
+    "C",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "预应力工程",
+   "chapter": "预应力工程",
+   "id": 33
+  },
+  {
+   "type": "judge",
+   "question": "通过灌浆使预应力筋与混凝土黏结是后张法无黏结预应力混凝土施工方法。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "预应力工程",
+   "chapter": "预应力工程",
+   "id": 34
+  },
+  {
+   "type": "judge",
+   "question": "先张法预应力施工中，预应力筋放张时，混凝土强度应符合设计要求，当设计无要求时，混凝土强度不应低于标准值值的80%。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "预应力工程",
+   "chapter": "预应力工程",
+   "id": 35
+  },
+  {
+   "type": "single",
+   "question": "屋面防水等级为3级建筑，防水层合理使用年限为（）年。",
+   "options": [
+    {
+     "key": "A",
+     "text": "5"
+    },
+    {
+     "key": "B",
+     "text": "10"
+    },
+    {
+     "key": "C",
+     "text": "15"
+    },
+    {
+     "key": "D",
+     "text": "25"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 36
+  },
+  {
+   "type": "single",
+   "question": "采用外防内贴法铺贴卷材防水层时，卷材的铺贴顺序为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "先铺平面，后铺立面"
+    },
+    {
+     "key": "B",
+     "text": "先铺立面，后铺平面"
+    },
+    {
+     "key": "C",
+     "text": "先铺大面，后铺转角"
+    },
+    {
+     "key": "D",
+     "text": "先铺交叉，后铺大面"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 37
+  },
+  {
+   "type": "multi",
+   "question": "按建筑工程部位不同分为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "屋面防水"
+    },
+    {
+     "key": "B",
+     "text": "内防水"
+    },
+    {
+     "key": "C",
+     "text": "地下防水"
+    },
+    {
+     "key": "D",
+     "text": "卫浴防水"
+    },
+    {
+     "key": "E",
+     "text": "外防水"
+    }
+   ],
+   "answer": [
+    "A",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 38
+  },
+  {
+   "type": "judge",
+   "question": "防水卷材铺贴天沟、檐沟卷材时，宜逆其方向并减少搭接。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 39
+  },
+  {
+   "type": "judge",
+   "question": "混凝土找平层的混凝土强度等级不应低于C20。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 40
+  },
+  {
+   "type": "single",
+   "question": "防水涂膜应由（）层以上涂层组成，其总厚度必须符合设计要求和规范规定。",
+   "options": [
+    {
+     "key": "A",
+     "text": "三"
+    },
+    {
+     "key": "B",
+     "text": "两"
+    },
+    {
+     "key": "C",
+     "text": "四"
+    },
+    {
+     "key": "D",
+     "text": "五"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 41
+  },
+  {
+   "type": "single",
+   "question": "下列选项中属于涂膜防水质量工程检验的一般项目的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "原材料质量"
+    },
+    {
+     "key": "B",
+     "text": "涂膜防水层的细部做法"
+    },
+    {
+     "key": "C",
+     "text": "涂膜防水层的厚度"
+    },
+    {
+     "key": "D",
+     "text": "防水层有无渗漏"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 42
+  },
+  {
+   "type": "multi",
+   "question": "下列属于涂膜防水屋面常采用的材料有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "防水砂浆"
+    },
+    {
+     "key": "B",
+     "text": "合成高分子防水涂料"
+    },
+    {
+     "key": "C",
+     "text": "高聚物改性沥青防水涂料"
+    },
+    {
+     "key": "D",
+     "text": "胎体增强材料"
+    },
+    {
+     "key": "E",
+     "text": "自粘防水卷材"
+    }
+   ],
+   "answer": [
+    "B",
+    "C",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 43
+  },
+  {
+   "type": "judge",
+   "question": "厨房地面与墙体连接处，防水层往墙面上返高度不得低于200mm。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 44
+  },
+  {
+   "type": "judge",
+   "question": "涂料防水层施工时，应分层涂布，每层干燥后再进行下一层施工。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 45
+  },
+  {
+   "type": "single",
+   "question": "悬挑钢梁支承点应设置在（）上。",
+   "options": [
+    {
+     "key": "A",
+     "text": "外伸阳台"
+    },
+    {
+     "key": "B",
+     "text": "结构梁"
+    },
+    {
+     "key": "C",
+     "text": "悬挑板"
+    },
+    {
+     "key": "D",
+     "text": "女儿墙"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "脚手架工程",
+   "chapter": "脚手架工程",
+   "id": 46
+  },
+  {
+   "type": "single",
+   "question": "砌筑工程作业脚手架施工荷载标准值是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "4.0kN/m2"
+    },
+    {
+     "key": "B",
+     "text": "3.0kN/m2"
+    },
+    {
+     "key": "C",
+     "text": "2.0kN/m2"
+    },
+    {
+     "key": "D",
+     "text": "1.0kN/m2"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "脚手架工程",
+   "chapter": "脚手架工程",
+   "id": 47
+  },
+  {
+   "type": "multi",
+   "question": "脚手架搭设过程中，必须设置连墙件的情况有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "双排脚手架高度超过24米"
+    },
+    {
+     "key": "B",
+     "text": "单排脚手架高度超过50米"
+    },
+    {
+     "key": "C",
+     "text": "门式脚手架的转角处"
+    },
+    {
+     "key": "D",
+     "text": "脚手架基础未经验收"
+    },
+    {
+     "key": "E",
+     "text": "连墙件的垂直间距不大于4米"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "脚手架工程",
+   "chapter": "脚手架工程",
+   "id": 48
+  },
+  {
+   "type": "judge",
+   "question": "脚手架搭设和拆除作业前，应将脚手架专项施工方案向施工现场管理人员及作业人员进行安全技术交底。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "脚手架工程",
+   "chapter": "脚手架工程",
+   "id": 49
+  },
+  {
+   "type": "judge",
+   "question": "支撑脚手架独立架体高宽比可以为2.0。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "脚手架工程",
+   "chapter": "脚手架工程",
+   "id": 50
+  },
+  {
+   "type": "single",
+   "question": "柱、墙外伸钢筋错位较小时，可按（）坡度弯折调整。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1:4"
+    },
+    {
+     "key": "B",
+     "text": "1:5"
+    },
+    {
+     "key": "C",
+     "text": "1:6"
+    },
+    {
+     "key": "D",
+     "text": "1:8"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "钢筋工程施工",
+   "chapter": "钢筋工程",
+   "id": 51
+  },
+  {
+   "type": "single",
+   "question": "在低温条件下抹水泥地面，应防止早期受冻。抹地面前，应将门窗玻璃安装好，或增加供暖设备，以保证施工环境温度在（）以上。",
+   "options": [
+    {
+     "key": "A",
+     "text": "0℃"
+    },
+    {
+     "key": "B",
+     "text": "1℃"
+    },
+    {
+     "key": "C",
+     "text": "4℃"
+    },
+    {
+     "key": "D",
+     "text": "5℃"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "楼地面工程",
+   "chapter": "砌体与装饰装修",
+   "id": 52
+  },
+  {
+   "type": "multi",
+   "question": "模板安装时，墙、柱模板（）必须设可靠的限位措施。",
+   "options": [
+    {
+     "key": "A",
+     "text": "根部"
+    },
+    {
+     "key": "B",
+     "text": "顶部"
+    },
+    {
+     "key": "C",
+     "text": "边部"
+    },
+    {
+     "key": "D",
+     "text": "中部"
+    },
+    {
+     "key": "E",
+     "text": "侧部"
+    }
+   ],
+   "answer": [
+    "A",
+    "B"
+   ],
+   "analysis": "",
+   "topic": "模板工程施工",
+   "chapter": "模板工程",
+   "id": 53
+  },
+  {
+   "type": "judge",
+   "question": "混凝土表面缺陷用普通砂浆或细石混凝土修补。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "混凝土工程施工",
+   "chapter": "混凝土工程",
+   "id": 54
+  },
+  {
+   "type": "judge",
+   "question": "厨、卫间楼地面只要设置了防水层就一定不会渗水。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 55
+  },
+  {
+   "type": "single",
+   "question": "预制剪力墙吊装时，斜支撑点距板底的高度要求为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "≥构件高度1/2"
+    },
+    {
+     "key": "B",
+     "text": "≥构件高度2/3"
+    },
+    {
+     "key": "C",
+     "text": "≥构件高度3/4"
+    },
+    {
+     "key": "D",
+     "text": "任意位置"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 56
+  },
+  {
+   "type": "single",
+   "question": "预制构件进场验收时，长度的允许偏差为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "±3mm"
+    },
+    {
+     "key": "B",
+     "text": "±5mm"
+    },
+    {
+     "key": "C",
+     "text": "±8mm"
+    },
+    {
+     "key": "D",
+     "text": "±10mm"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 57
+  },
+  {
+   "type": "multi",
+   "question": "预制叠合板吊装时的技术要求有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "采用独立钢支撑，间距不超过2.5米"
+    },
+    {
+     "key": "B",
+     "text": "使用四个吊点，确保均衡受力"
+    },
+    {
+     "key": "C",
+     "text": "下落至安装位置上方36cm时微调"
+    },
+    {
+     "key": "D",
+     "text": "外露钢筋必须深入梁体或墙体内"
+    },
+    {
+     "key": "E",
+     "text": "支撑体系在混凝土强度达到设计值后方可拆除"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 58
+  },
+  {
+   "type": "judge",
+   "question": "预制墙板的叠放层数要求为不超过6层。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 59
+  },
+  {
+   "type": "judge",
+   "question": "装配式建筑可减少劳动力约40%。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 60
+  },
+  {
+   "type": "single",
+   "question": "剪力墙边缘构件节点施工中，拉结筋的间距要求为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "≤300mm"
+    },
+    {
+     "key": "B",
+     "text": "≤400mm"
+    },
+    {
+     "key": "C",
+     "text": "≤500mm"
+    },
+    {
+     "key": "D",
+     "text": "≤600mm"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 61
+  },
+  {
+   "type": "single",
+   "question": "套筒灌浆连接中，全灌浆套筒适用于（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "叠合梁"
+    },
+    {
+     "key": "B",
+     "text": "剪力墙和柱"
+    },
+    {
+     "key": "C",
+     "text": "预制楼梯"
+    },
+    {
+     "key": "D",
+     "text": "预制飘窗"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 62
+  },
+  {
+   "type": "multi",
+   "question": "叠合梁节点施工的技术要点有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "预留箍筋交错布置"
+    },
+    {
+     "key": "B",
+     "text": "主筋采用焊接或机械连接"
+    },
+    {
+     "key": "C",
+     "text": "接头避开核心区"
+    },
+    {
+     "key": "D",
+     "text": "节点混凝土强度高于相连构件"
+    },
+    {
+     "key": "E",
+     "text": "采用普通绑扎连接"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 63
+  },
+  {
+   "type": "judge",
+   "question": "正面案例经验中包括标准化作业、信息化管理和人员培训三项亮点。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 64
+  },
+  {
+   "type": "judge",
+   "question": "验收三阶段中，前一阶段不合格不得进入下一阶段。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 65
+  },
+  {
+   "type": "judge",
+   "question": "当上部结构的荷载较大，地基土质又较软弱，不能作为天然地基时，为提高地基承载力，改善其变形性质或渗透性而采取的人工处理地基的方法称为地基处理。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "地基处理",
+   "chapter": "地基与基坑工程",
+   "id": 66
+  },
+  {
+   "type": "multi",
+   "question": "地基处理的常用方法包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "换土垫层法"
+    },
+    {
+     "key": "B",
+     "text": "排水固结法"
+    },
+    {
+     "key": "C",
+     "text": "物理加固法"
+    },
+    {
+     "key": "D",
+     "text": "挤密法"
+    },
+    {
+     "key": "E",
+     "text": "强夯法"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "地基处理",
+   "chapter": "地基与基坑工程",
+   "id": 67
+  },
+  {
+   "type": "single",
+   "question": "强夯置换墩的深度由土质条件决定，除厚层饱和粉土外，应穿透软弱土层，到达较硬土层上，深度不宜超过（）m。",
+   "options": [
+    {
+     "key": "A",
+     "text": "5"
+    },
+    {
+     "key": "B",
+     "text": "6"
+    },
+    {
+     "key": "C",
+     "text": "7"
+    },
+    {
+     "key": "D",
+     "text": "8"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "地基处理",
+   "chapter": "地基与基坑工程",
+   "id": 68
+  },
+  {
+   "type": "multi",
+   "question": "下列地基处理方法属于换土垫层法的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "堆载预压法"
+    },
+    {
+     "key": "B",
+     "text": "机械碾压法"
+    },
+    {
+     "key": "C",
+     "text": "重锤夯实法"
+    },
+    {
+     "key": "D",
+     "text": "平板振动法"
+    },
+    {
+     "key": "E",
+     "text": "降水预压法"
+    }
+   ],
+   "answer": [
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "地基处理",
+   "chapter": "地基与基坑工程",
+   "id": 69
+  },
+  {
+   "type": "single",
+   "question": "下列不属于地基处理的目的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "提高软弱地基的强度、保证地基的稳定性;"
+    },
+    {
+     "key": "B",
+     "text": "消除特殊土的湿陷性、膨胀性和冻胀性"
+    },
+    {
+     "key": "C",
+     "text": "增加软弱地基的压缩性、减少基础的沉降;"
+    },
+    {
+     "key": "D",
+     "text": "防止地震时地基土的振动液化"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "地基处理",
+   "chapter": "地基与基坑工程",
+   "id": 70
+  },
+  {
+   "type": "judge",
+   "question": "消能减震技术是将结构的某些构件设计成消能构件，或在结构的某些部位装设消能装置。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "消能减震",
+   "chapter": "建筑结构与抗震",
+   "id": 71
+  },
+  {
+   "type": "judge",
+   "question": "基坑工程监测:是指通过对基坑控制参数进行一定期间内的量值及变化进行监测，并根据监测数据评估判断或预测基坑安全状态，为安全控制措施提供技术依据。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "基坑监测",
+   "chapter": "地基与基坑工程",
+   "id": 72
+  },
+  {
+   "type": "multi",
+   "question": "消能减震技术的主要作用包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "消耗地震或风振能量"
+    },
+    {
+     "key": "B",
+     "text": "衰减结构的地震反应"
+    },
+    {
+     "key": "C",
+     "text": "提高建筑美观性"
+    },
+    {
+     "key": "D",
+     "text": "保护主体结构免遭破坏"
+    },
+    {
+     "key": "E",
+     "text": "提高建筑材料强度"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "消能减震",
+   "chapter": "建筑结构与抗震",
+   "id": 73
+  },
+  {
+   "type": "single",
+   "question": "隔震系统中，目前工程界最常用的隔震装置是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "弹簧隔震器"
+    },
+    {
+     "key": "B",
+     "text": "叠层橡胶支座"
+    },
+    {
+     "key": "C",
+     "text": "摩擦摆支座"
+    },
+    {
+     "key": "D",
+     "text": "液压阻尼器"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "隔震结构",
+   "chapter": "建筑结构与抗震",
+   "id": 74
+  },
+  {
+   "type": "single",
+   "question": "钢绞线网片聚合物砂浆加固技术中，主要受力主体是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "聚合物砂浆"
+    },
+    {
+     "key": "B",
+     "text": "结构钢筋"
+    },
+    {
+     "key": "C",
+     "text": "钢绞线"
+    },
+    {
+     "key": "D",
+     "text": "界面处理剂"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "结构加固",
+   "chapter": "建筑结构与抗震",
+   "id": 75
+  },
+  {
+   "type": "judge",
+   "question": "钢支撑架设时不需要做到“随挖随撑，先撑后挖”。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "钢支撑",
+   "chapter": "地基与基坑工程",
+   "id": 76
+  },
+  {
+   "type": "judge",
+   "question": "为了保证钢支撑受力均匀，钢支撑端头与支撑体需有一定的角度。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "钢支撑",
+   "chapter": "地基与基坑工程",
+   "id": 77
+  },
+  {
+   "type": "single",
+   "question": "钢支撑标准段与标准段、标准段与固定端通过（）连接。",
+   "options": [
+    {
+     "key": "A",
+     "text": "焊接"
+    },
+    {
+     "key": "B",
+     "text": "铆接"
+    },
+    {
+     "key": "C",
+     "text": "法兰"
+    },
+    {
+     "key": "D",
+     "text": "粘结"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "钢支撑",
+   "chapter": "地基与基坑工程",
+   "id": 78
+  },
+  {
+   "type": "single",
+   "question": "根据《钢结构工程施工质量验收标准》GB50205-2020规定，钢材、钢部件拼接或对接时，下列关于焊缝质量等级的说法，错误的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "焊缝质量等级应优先满足设计文件的要求"
+    },
+    {
+     "key": "B",
+     "text": "当设计无明确要求时，拼接焊缝应采用质量等级不低于二级的熔透焊缝"
+    },
+    {
+     "key": "C",
+     "text": "设计无要求时，统一采用一级熔透焊缝"
+    },
+    {
+     "key": "D",
+     "text": "对直接承受拉力的焊缝，设计无要求时应采用一级熔透焊缝"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "钢结构焊接",
+   "chapter": "钢结构工程",
+   "id": 79
+  },
+  {
+   "type": "multi",
+   "question": "钢支撑自动伺服系统的核心功能包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "自动调整基坑周边建筑物位置"
+    },
+    {
+     "key": "B",
+     "text": "支撑轴力实时自动监测及补偿"
+    },
+    {
+     "key": "C",
+     "text": "机械与液压双自闭锁"
+    },
+    {
+     "key": "D",
+     "text": "提高钢支撑回收价值"
+    },
+    {
+     "key": "E",
+     "text": "24h远程网络监控及报警"
+    }
+   ],
+   "answer": [
+    "B",
+    "C",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "钢支撑",
+   "chapter": "地基与基坑工程",
+   "id": 80
+  },
+  {
+   "type": "single",
+   "question": "地下室筏板结构与地下连续墙(两墙合一)交接处的防水措施采用填塞440-BW遇水条+在止水条上下方预埋注浆管再注（）的组合防水措施。",
+   "options": [
+    {
+     "key": "A",
+     "text": "水泥浆"
+    },
+    {
+     "key": "B",
+     "text": "水泥砂浆"
+    },
+    {
+     "key": "C",
+     "text": "防水浆"
+    },
+    {
+     "key": "D",
+     "text": "混凝土"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "地下防水",
+   "chapter": "防水工程",
+   "id": 81
+  },
+  {
+   "type": "single",
+   "question": "基坑支护排桩设计时，支护桩顶部应设置混凝土冠梁，冠梁的宽度不宜小于桩径，高度不宜小于桩径的（）倍。",
+   "options": [
+    {
+     "key": "A",
+     "text": "0.5"
+    },
+    {
+     "key": "B",
+     "text": "0.6"
+    },
+    {
+     "key": "C",
+     "text": "0.7"
+    },
+    {
+     "key": "D",
+     "text": "0.8"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "基坑支护",
+   "chapter": "地基与基坑工程",
+   "id": 82
+  },
+  {
+   "type": "multi",
+   "question": "地下连续墙槽段柔性接头类型有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "锁口管接头"
+    },
+    {
+     "key": "B",
+     "text": "钢筋混凝土承插式接头"
+    },
+    {
+     "key": "C",
+     "text": "波纹管接头"
+    },
+    {
+     "key": "D",
+     "text": "楔形接头"
+    },
+    {
+     "key": "E",
+     "text": "工字形钢接头"
+    }
+   ],
+   "answer": [
+    "A",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "地下连续墙",
+   "chapter": "地基与基坑工程",
+   "id": 83
+  },
+  {
+   "type": "judge",
+   "question": "主体结构与基坑支护结构一体化技术是指将基坑围护结构、内支撑体系与地下室外墙、梁板相结合，形成一个整体的结构系统。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "基坑支护",
+   "chapter": "地基与基坑工程",
+   "id": 84
+  },
+  {
+   "type": "judge",
+   "question": "主体结构与基坑支护结构一体化技术指在施工操作中做到主体结构与围护结构之间的良好配合，进而使建筑物获取较好的完整性，缺点是无法规避施工过程中的相互干扰及问题反复出现。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "基坑支护",
+   "chapter": "地基与基坑工程",
+   "id": 85
+  },
+  {
+   "type": "single",
+   "question": "不同时代有不同的“好房子”，它承载的是人民群众对居住（）的追求。",
+   "options": [
+    {
+     "key": "A",
+     "text": "品质"
+    },
+    {
+     "key": "B",
+     "text": "面积"
+    },
+    {
+     "key": "C",
+     "text": "环境"
+    },
+    {
+     "key": "D",
+     "text": "服务"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "好房子",
+   "chapter": "装配式建筑",
+   "id": 86
+  },
+  {
+   "type": "single",
+   "question": "国家首次提出房地产是国民经济的支柱产业是（）年。",
+   "options": [
+    {
+     "key": "A",
+     "text": "2000"
+    },
+    {
+     "key": "B",
+     "text": "2005"
+    },
+    {
+     "key": "C",
+     "text": "2003"
+    },
+    {
+     "key": "D",
+     "text": "2010"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "房地产",
+   "chapter": "合同与成本",
+   "id": 87
+  },
+  {
+   "type": "judge",
+   "question": "能耗管理系统可通过大数据分析为物业提供公共区域的节能优化建议。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "能耗管理",
+   "chapter": "绿色建造",
+   "id": 88
+  },
+  {
+   "type": "judge",
+   "question": "未来好房子重塑用户体验与互动方式，新质生产力打造新的产业链。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "好房子",
+   "chapter": "装配式建筑",
+   "id": 89
+  },
+  {
+   "type": "multi",
+   "question": "以下关于好房子产品的描述，正确的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "从功能、质量、体验等多维度进行考量"
+    },
+    {
+     "key": "B",
+     "text": "全面升级硬件设施，不涉及软件服"
+    },
+    {
+     "key": "C",
+     "text": "致力于建设高品质住宅"
+    },
+    {
+     "key": "D",
+     "text": "打造多元复合、便捷丰富的生活场景"
+    },
+    {
+     "key": "E",
+     "text": "目标是提升人们的幸福感、归属感"
+    }
+   ],
+   "answer": [
+    "A",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "好房子",
+   "chapter": "装配式建筑",
+   "id": 90
+  },
+  {
+   "type": "multi",
+   "question": "好房子体系中关于安全的内涵主要有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "建筑安全"
+    },
+    {
+     "key": "B",
+     "text": "交通安全"
+    },
+    {
+     "key": "C",
+     "text": "生活安全"
+    },
+    {
+     "key": "D",
+     "text": "设备安全"
+    },
+    {
+     "key": "E",
+     "text": "环境安全"
+    }
+   ],
+   "answer": [
+    "A",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "好房子",
+   "chapter": "装配式建筑",
+   "id": 91
+  },
+  {
+   "type": "single",
+   "question": "好房子产品理念要贯彻以“安居乐业好生活”的核心，诠释（）的生活空间。",
+   "options": [
+    {
+     "key": "A",
+     "text": "知足常乐"
+    },
+    {
+     "key": "B",
+     "text": "幸福美好"
+    },
+    {
+     "key": "C",
+     "text": "和谐"
+    },
+    {
+     "key": "D",
+     "text": "安居乐业"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "好房子",
+   "chapter": "装配式建筑",
+   "id": 92
+  },
+  {
+   "type": "single",
+   "question": "下列不属于好房子特色的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "绿色"
+    },
+    {
+     "key": "B",
+     "text": "智慧"
+    },
+    {
+     "key": "C",
+     "text": "匠心"
+    },
+    {
+     "key": "D",
+     "text": "现代"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "好房子",
+   "chapter": "装配式建筑",
+   "id": 93
+  },
+  {
+   "type": "judge",
+   "question": "立面造型属于好房子体系创新的匠心内容。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "好房子",
+   "chapter": "装配式建筑",
+   "id": 94
+  },
+  {
+   "type": "judge",
+   "question": "好房子关于绿色的内涵是节能、低碳、耐久。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "好房子",
+   "chapter": "装配式建筑",
+   "id": 95
+  },
+  {
+   "type": "single",
+   "question": "机械固定法是通过机械件固定卷材，在进行基层准备后的施工流程为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "铺设保温层"
+    },
+    {
+     "key": "B",
+     "text": "卷材铺设与固定"
+    },
+    {
+     "key": "C",
+     "text": "热风焊接"
+    },
+    {
+     "key": "D",
+     "text": "节点处理与验收"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "防水卷材",
+   "chapter": "防水工程",
+   "id": 96
+  },
+  {
+   "type": "single",
+   "question": "以下不是TPO防水卷材的核心性能特点的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "耐候性强，宽温域-40℃~120℃性能稳定"
+    },
+    {
+     "key": "B",
+     "text": "环保可回收，产品可100%回收"
+    },
+    {
+     "key": "C",
+     "text": "火烤施工，粘结强度高"
+    },
+    {
+     "key": "D",
+     "text": "设计寿命≥25年，耐久性好"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "防水卷材",
+   "chapter": "防水工程",
+   "id": 97
+  },
+  {
+   "type": "multi",
+   "question": "TPO防水卷材主要分为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "增强型（P型）"
+    },
+    {
+     "key": "B",
+     "text": "背衬型（L型）"
+    },
+    {
+     "key": "C",
+     "text": "均质型（H型）"
+    },
+    {
+     "key": "D",
+     "text": "自粘型（S型）"
+    },
+    {
+     "key": "E",
+     "text": "热熔型（R型）"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C"
+   ],
+   "analysis": "",
+   "topic": "防水卷材",
+   "chapter": "防水工程",
+   "id": 98
+  },
+  {
+   "type": "judge",
+   "question": "TPO防水卷材的耐候性强，能在-40℃~120℃宽温域内保持性能稳定。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "防水卷材",
+   "chapter": "防水工程",
+   "id": 99
+  },
+  {
+   "type": "judge",
+   "question": "规范GB55030-2022要求屋面防水工程设计寿命不低于25年。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "防水规范",
+   "chapter": "防水工程",
+   "id": 100
+  },
+  {
+   "type": "single",
+   "question": "全站仪集电子测角、红外激光测距、微处理器于一体，其最大优势是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "无法自动记录数据"
+    },
+    {
+     "key": "B",
+     "text": "只能测量水平距离"
+    },
+    {
+     "key": "C",
+     "text": "单次设站即可获取测点的三维坐标"
+    },
+    {
+     "key": "D",
+     "text": "仅适用于室内测量"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "工程测量",
+   "chapter": "智能建造与BIM",
+   "id": 101
+  },
+  {
+   "type": "single",
+   "question": "利用无人机航测，可实现（）测量成果。",
+   "options": [
+    {
+     "key": "A",
+     "text": "测量数据的信息化与可视化"
+    },
+    {
+     "key": "B",
+     "text": "毫米级复杂结构逆向建模"
+    },
+    {
+     "key": "C",
+     "text": "高效获取地形与实景数据"
+    },
+    {
+     "key": "D",
+     "text": "单点人工逐点测量"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "无人机航测",
+   "chapter": "智能建造与BIM",
+   "id": 102
+  },
+  {
+   "type": "multi",
+   "question": "无人机航测技术的主要应用场景包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "地形测绘"
+    },
+    {
+     "key": "B",
+     "text": "土方量计算"
+    },
+    {
+     "key": "C",
+     "text": "结构内部检测"
+    },
+    {
+     "key": "D",
+     "text": "进度监控"
+    },
+    {
+     "key": "E",
+     "text": "场地规划"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "无人机航测",
+   "chapter": "智能建造与BIM",
+   "id": 103
+  },
+  {
+   "type": "judge",
+   "question": "新技术应用的风险包括技术适配风险、数据安全风险、人员能力风险等。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 104
+  },
+  {
+   "type": "judge",
+   "question": "新时代建筑工程行业趋势是数字化与智能化转型。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 105
+  },
+  {
+   "type": "single",
+   "question": "钢筋加工机器人加工精度可达（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "±0.5毫米"
+    },
+    {
+     "key": "B",
+     "text": "±1毫米"
+    },
+    {
+     "key": "C",
+     "text": "±5毫米"
+    },
+    {
+     "key": "D",
+     "text": "±10毫米"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "建筑机器人",
+   "chapter": "智能建造与BIM",
+   "id": 106
+  },
+  {
+   "type": "single",
+   "question": "建筑机器人与自动化施工技术核心体系不包括以下哪项（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "机器人本体技术"
+    },
+    {
+     "key": "B",
+     "text": "自动化控制系统"
+    },
+    {
+     "key": "C",
+     "text": "传统手工艺"
+    },
+    {
+     "key": "D",
+     "text": "传感检测技术"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "建筑机器人",
+   "chapter": "智能建造与BIM",
+   "id": 107
+  },
+  {
+   "type": "multi",
+   "question": "建筑机器人传感检测技术包含（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "力传感技术"
+    },
+    {
+     "key": "B",
+     "text": "位置传感技术"
+    },
+    {
+     "key": "C",
+     "text": "环境传感技术"
+    },
+    {
+     "key": "D",
+     "text": "视觉传感技术"
+    },
+    {
+     "key": "E",
+     "text": "语音传感技术"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "建筑机器人",
+   "chapter": "智能建造与BIM",
+   "id": 108
+  },
+  {
+   "type": "judge",
+   "question": "有线通信技术适用于建筑机器人移动作业场景。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "建筑机器人",
+   "chapter": "智能建造与BIM",
+   "id": 109
+  },
+  {
+   "type": "judge",
+   "question": "建筑机器人可24小时连续作业，不受生理极限影响。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "建筑机器人",
+   "chapter": "智能建造与BIM",
+   "id": 110
+  },
+  {
+   "type": "single",
+   "question": "建筑机器人投资回报周期通常为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1~2年"
+    },
+    {
+     "key": "B",
+     "text": "3~5年"
+    },
+    {
+     "key": "C",
+     "text": "6~8年"
+    },
+    {
+     "key": "D",
+     "text": "10年以上"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "建筑机器人",
+   "chapter": "智能建造与BIM",
+   "id": 111
+  },
+  {
+   "type": "single",
+   "question": "桥梁检测机器人最小可识别裂缝宽度为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "0.01毫米"
+    },
+    {
+     "key": "B",
+     "text": "0.1毫米"
+    },
+    {
+     "key": "C",
+     "text": "1毫米"
+    },
+    {
+     "key": "D",
+     "text": "2毫米"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "桥梁检测",
+   "chapter": "质量与验收",
+   "id": 112
+  },
+  {
+   "type": "multi",
+   "question": "混凝土施工环节用到的机器人有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "混凝土布料机"
+    },
+    {
+     "key": "B",
+     "text": "混凝土振捣机器人"
+    },
+    {
+     "key": "C",
+     "text": "混凝土整平机器人"
+    },
+    {
+     "key": "D",
+     "text": "混凝土抹平机器人"
+    },
+    {
+     "key": "E",
+     "text": "钢筋绑扎机器人"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "建筑机器人",
+   "chapter": "智能建造与BIM",
+   "id": 113
+  },
+  {
+   "type": "judge",
+   "question": "建筑机器人关键零部件目前已完全实现国产化。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "建筑机器人",
+   "chapter": "智能建造与BIM",
+   "id": 114
+  },
+  {
+   "type": "judge",
+   "question": "墙面喷涂机器人可减少涂料浪费30%以上。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "建筑机器人",
+   "chapter": "智能建造与BIM",
+   "id": 115
+  },
+  {
+   "type": "single",
+   "question": "本项目BIPV光伏系统装机容量为（）kWp。",
+   "options": [
+    {
+     "key": "A",
+     "text": "3000.81"
+    },
+    {
+     "key": "B",
+     "text": "4000.81"
+    },
+    {
+     "key": "C",
+     "text": "4200.81"
+    },
+    {
+     "key": "D",
+     "text": "4100.81"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "光伏建筑",
+   "chapter": "绿色建造",
+   "id": 116
+  },
+  {
+   "type": "single",
+   "question": "根据《近零能耗建筑技术标准》（GB/T 51350-2019），近零能耗建筑能耗需较国标降低（）以上。",
+   "options": [
+    {
+     "key": "A",
+     "text": "50%"
+    },
+    {
+     "key": "B",
+     "text": "60%~75%"
+    },
+    {
+     "key": "C",
+     "text": "80%"
+    },
+    {
+     "key": "D",
+     "text": "90%"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "近零能耗建筑",
+   "chapter": "绿色建造",
+   "id": 117
+  },
+  {
+   "type": "multi",
+   "question": "苏州方厅水院项目六大核心施工技术包含（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "被动式超低能耗围护结构施工"
+    },
+    {
+     "key": "B",
+     "text": "低碳建材与绿色建造技术"
+    },
+    {
+     "key": "C",
+     "text": "光储直柔智能微网配套施工"
+    },
+    {
+     "key": "D",
+     "text": "生态碳汇配套施工"
+    },
+    {
+     "key": "E",
+     "text": "传统现浇混凝土施工"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "绿色建造",
+   "chapter": "绿色建造",
+   "id": 118
+  },
+  {
+   "type": "judge",
+   "question": "本项目装配式施工关键构件覆盖率未达到100%。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 119
+  },
+  {
+   "type": "judge",
+   "question": "零能耗建筑是近零能耗建筑的高级表现形式。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "近零能耗建筑",
+   "chapter": "绿色建造",
+   "id": 120
+  },
+  {
+   "type": "single",
+   "question": "起重吊装及安装拆卸工程专项施工方案中严重缺陷的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "起重机的选型经过了计算和论证"
+    },
+    {
+     "key": "B",
+     "text": "未对吊装作业的场地进行承载力验算"
+    },
+    {
+     "key": "C",
+     "text": "有吊装作业的应急预案"
+    },
+    {
+     "key": "D",
+     "text": "明确了吊装指挥人员的职责"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "起重吊装",
+   "chapter": "施工安全",
+   "id": 121
+  },
+  {
+   "type": "single",
+   "question": "以下哪种情况不属于深基坑工程专项施工方案的严重缺陷（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "未对基坑周围环境进行详细调查和分析"
+    },
+    {
+     "key": "B",
+     "text": "支护结构计算书缺失关键参数"
+    },
+    {
+     "key": "C",
+     "text": "明确了基坑监测和频率和报警值"
+    },
+    {
+     "key": "D",
+     "text": "土方开挖顺序不符合设计要求"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "深基坑安全",
+   "chapter": "地基与基坑工程",
+   "id": 122
+  },
+  {
+   "type": "multi",
+   "question": "建筑幕墙安装工程中，属于严重缺陷的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "无型钢悬挑梁、U型环和锚固螺栓的规格型号。"
+    },
+    {
+     "key": "B",
+     "text": "非标吊篮无构件规格、材质、连接螺栓、焊缝及连接板设计要求。"
+    },
+    {
+     "key": "C",
+     "text": "无材料运输、安装设备运输安装工艺。"
+    },
+    {
+     "key": "D",
+     "text": "同一立面内交叉作业，无安全技术措施。"
+    },
+    {
+     "key": "E",
+     "text": "幕墙材料检测要求不全"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "幕墙安全",
+   "chapter": "施工安全",
+   "id": 123
+  },
+  {
+   "type": "judge",
+   "question": "钢结构安装工程方案中无吊具、索具安全使用说明和起重能力的验算不属于严重缺陷。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "钢结构安全",
+   "chapter": "钢结构工程",
+   "id": 124
+  },
+  {
+   "type": "judge",
+   "question": "专项方案中无应急处置措施属于严重缺陷。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "安全方案",
+   "chapter": "施工安全",
+   "id": 125
+  },
+  {
+   "type": "single",
+   "question": "据统计建筑垃圾约占城市固体废物总量的（），已成为我国城市单一品种排放数量最大、最集中的固体垃圾。",
+   "options": [
+    {
+     "key": "A",
+     "text": "30%"
+    },
+    {
+     "key": "B",
+     "text": "40%"
+    },
+    {
+     "key": "C",
+     "text": "20%"
+    },
+    {
+     "key": "D",
+     "text": "50%"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "建筑垃圾",
+   "chapter": "绿色建造",
+   "id": 126
+  },
+  {
+   "type": "single",
+   "question": "施工现场建筑垃圾减量化工作阶段划分不包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "地下结构阶段"
+    },
+    {
+     "key": "B",
+     "text": "地上结构阶段"
+    },
+    {
+     "key": "C",
+     "text": "装修及机电安装阶段"
+    },
+    {
+     "key": "D",
+     "text": "验收阶段"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "建筑垃圾",
+   "chapter": "绿色建造",
+   "id": 127
+  },
+  {
+   "type": "multi",
+   "question": "施工单位对现场建筑垃圾减量化工作的管理措施包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "建筑构件采用可重复利用的材料"
+    },
+    {
+     "key": "B",
+     "text": "目标公示"
+    },
+    {
+     "key": "C",
+     "text": "建立智慧工地管理平台"
+    },
+    {
+     "key": "D",
+     "text": "分类收集"
+    },
+    {
+     "key": "E",
+     "text": "效果评估"
+    }
+   ],
+   "answer": [
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "建筑垃圾",
+   "chapter": "绿色建造",
+   "id": 128
+  },
+  {
+   "type": "judge",
+   "question": "《施工现场建筑垃圾减量化技术标准》要求对于易产生扬尘的垃圾，应采取覆盖、洒水等措施防止扬尘。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "建筑垃圾",
+   "chapter": "绿色建造",
+   "id": 129
+  },
+  {
+   "type": "judge",
+   "question": "《施工现场建筑垃圾减量化技术标准》实行的目的是规范和引导施工现场建筑垃圾的高效利用，减少施工现场建筑垃圾的排放，实现资源节约和环境保护。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "建筑垃圾",
+   "chapter": "绿色建造",
+   "id": 130
+  },
+  {
+   "type": "single",
+   "question": "市政公用工程公用工程安全生产费用提取的标准是建筑安装工程造价的（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "2%"
+    },
+    {
+     "key": "B",
+     "text": "3%"
+    },
+    {
+     "key": "C",
+     "text": "1.50%"
+    },
+    {
+     "key": "D",
+     "text": "2.50%"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "安全生产费用",
+   "chapter": "施工安全",
+   "id": 131
+  },
+  {
+   "type": "single",
+   "question": "建设工程施工企业以建筑安装工程造价为依据，于（）按工程进度计算提取企业安全生产费用。",
+   "options": [
+    {
+     "key": "A",
+     "text": "年末"
+    },
+    {
+     "key": "B",
+     "text": "季度末"
+    },
+    {
+     "key": "C",
+     "text": "月末"
+    },
+    {
+     "key": "D",
+     "text": "周末"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "安全生产费用",
+   "chapter": "施工安全",
+   "id": 132
+  },
+  {
+   "type": "multi",
+   "question": "建设工程施工企业安全生产费用应当用于（）支出。",
+   "options": [
+    {
+     "key": "A",
+     "text": "配备和更新现场作业人员安全防护用品"
+    },
+    {
+     "key": "B",
+     "text": "安全生产宣传、教育、培训和从业人员发现并报告事故隐患的奖励"
+    },
+    {
+     "key": "C",
+     "text": "安全设施及特种设备检测检验、检定校准"
+    },
+    {
+     "key": "D",
+     "text": "安全生产责任保险"
+    },
+    {
+     "key": "E",
+     "text": "保修期内电梯维修"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "安全生产费用",
+   "chapter": "施工安全",
+   "id": 133
+  },
+  {
+   "type": "judge",
+   "question": "建设单位应当在合同中单独约定并于工程开工日一个月内向承包单位支付全额支付企业安全生产费用。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "安全生产费用",
+   "chapter": "施工安全",
+   "id": 134
+  },
+  {
+   "type": "judge",
+   "question": "企业安全生产费用是指建设单位按照规定标准提取，在成本（费用）中列支，专门用于完善和改进安全生产条件的费用。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "安全生产费用",
+   "chapter": "施工安全",
+   "id": 135
+  },
+  {
+   "type": "single",
+   "question": "《智能建造技术导则（试行）》适用于新建房屋建筑工程在勘察、设计、生产、施工、运维等各阶段采用（）方式开展的建设活动。",
+   "options": [
+    {
+     "key": "A",
+     "text": "智能建造"
+    },
+    {
+     "key": "B",
+     "text": "作业化"
+    },
+    {
+     "key": "C",
+     "text": "数字化"
+    },
+    {
+     "key": "D",
+     "text": "机械化"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 136
+  },
+  {
+   "type": "single",
+   "question": "智慧运维实时监测与预警是通过（）数据，提供异常状态预警，保障结构安全。",
+   "options": [
+    {
+     "key": "A",
+     "text": "现场监控"
+    },
+    {
+     "key": "B",
+     "text": "物联网传感器"
+    },
+    {
+     "key": "C",
+     "text": "人工收集"
+    },
+    {
+     "key": "D",
+     "text": "多途径收集"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 137
+  },
+  {
+   "type": "multi",
+   "question": "智慧运维包括（）等部分。",
+   "options": [
+    {
+     "key": "A",
+     "text": "智慧运维平台"
+    },
+    {
+     "key": "B",
+     "text": "建筑结构健康检测"
+    },
+    {
+     "key": "C",
+     "text": "建筑功能运行与围护"
+    },
+    {
+     "key": "D",
+     "text": "安全风险"
+    },
+    {
+     "key": "E",
+     "text": "风险管控"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 138
+  },
+  {
+   "type": "judge",
+   "question": "数字设计要求BIM技术贯穿建筑全生命周期，在方案阶段进行场地模拟与性能优化，施工图阶段嵌入规范并开展碰撞检查，深化阶段支持预制构件与机电管线专项设计，提升设计协调性与精确性。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 139
+  },
+  {
+   "type": "judge",
+   "question": "智能建造技术的应用应该因地制宜，不是所有技术都必须同时使用。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 140
+  },
+  {
+   "type": "single",
+   "question": "我省对（）以上安全风险实行目录化管理。",
+   "options": [
+    {
+     "key": "A",
+     "text": "重大风险"
+    },
+    {
+     "key": "B",
+     "text": "一般风险"
+    },
+    {
+     "key": "C",
+     "text": "较大风险"
+    },
+    {
+     "key": "D",
+     "text": "低风险"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "安全风险管理",
+   "chapter": "施工安全",
+   "id": 141
+  },
+  {
+   "type": "single",
+   "question": "危险性较大部分分项工程专项施工方案通常由（）审批。",
+   "options": [
+    {
+     "key": "A",
+     "text": "安全总监"
+    },
+    {
+     "key": "B",
+     "text": "技术负责人"
+    },
+    {
+     "key": "C",
+     "text": "总经理"
+    },
+    {
+     "key": "D",
+     "text": "法人"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "安全风险管理",
+   "chapter": "施工安全",
+   "id": 142
+  },
+  {
+   "type": "multi",
+   "question": "安全风险按照发生生产安全事故的可能性及其后果的严重程度，分为（）四个等级。",
+   "options": [
+    {
+     "key": "A",
+     "text": "重大风险"
+    },
+    {
+     "key": "B",
+     "text": "较大风险"
+    },
+    {
+     "key": "C",
+     "text": "一般风险"
+    },
+    {
+     "key": "D",
+     "text": "低风险"
+    },
+    {
+     "key": "E",
+     "text": "无风险"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "安全风险管理",
+   "chapter": "施工安全",
+   "id": 143
+  },
+  {
+   "type": "judge",
+   "question": "施工单位在项目开工前，对危险源风险进行动态评估。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "安全风险管理",
+   "chapter": "施工安全",
+   "id": 144
+  },
+  {
+   "type": "judge",
+   "question": "施工现场安全隐患主要表现为人的不安全行为、设施设备的不安全状态、环境的不安全因素、安全管理存在的缺陷和漏洞。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "安全风险管理",
+   "chapter": "施工安全",
+   "id": 145
+  },
+  {
+   "type": "single",
+   "question": "根据《办法》第十一条规定，违法分包与转包的主要区别在于（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "违法分包涉及全部工程，转包涉及部分工程"
+    },
+    {
+     "key": "B",
+     "text": "违法分包涉及部分工程，转包涉及全部工程"
+    },
+    {
+     "key": "C",
+     "text": "违法分包是合法的，转包是违法的"
+    },
+    {
+     "key": "D",
+     "text": "违法分包主体是建设单位，转包主体是承建单位"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "发承包管理",
+   "chapter": "合同与成本",
+   "id": 146
+  },
+  {
+   "type": "single",
+   "question": "根据《办法》第十条规定，以下关于挂靠的说法错误的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "“无资质借用有资质”属于挂靠"
+    },
+    {
+     "key": "B",
+     "text": "“有资质借互”属于挂靠"
+    },
+    {
+     "key": "C",
+     "text": "只有低资质借用高资质才属于挂靠"
+    },
+    {
+     "key": "D",
+     "text": "不论资质高低，存在互借情况均属挂靠"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "发承包管理",
+   "chapter": "合同与成本",
+   "id": 147
+  },
+  {
+   "type": "multi",
+   "question": "根据《办法》第五条规定，违法发包的认定维度有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "发包主体"
+    },
+    {
+     "key": "B",
+     "text": "行为特征"
+    },
+    {
+     "key": "C",
+     "text": "法律属性"
+    },
+    {
+     "key": "D",
+     "text": "工程规模"
+    },
+    {
+     "key": "E",
+     "text": "合同金额"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C"
+   ],
+   "analysis": "",
+   "topic": "发承包管理",
+   "chapter": "合同与成本",
+   "id": 148
+  },
+  {
+   "type": "judge",
+   "question": "《办法》确立的管理体制是“住建部统一监管、地方分级负责”的分层管理体制。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "发承包管理",
+   "chapter": "合同与成本",
+   "id": 149
+  },
+  {
+   "type": "judge",
+   "question": "根据《办法》规定，合同管理是防范违法行为的第一道防线。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "发承包管理",
+   "chapter": "合同与成本",
+   "id": 150
+  },
+  {
+   "type": "single",
+   "question": "脚手架所用杆件和构配件应配套使用，并应满足架方式及（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "现场条件"
+    },
+    {
+     "key": "B",
+     "text": "施工方便"
+    },
+    {
+     "key": "C",
+     "text": "构造要求"
+    },
+    {
+     "key": "D",
+     "text": "经济实用"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "脚手架工程",
+   "chapter": "脚手架工程",
+   "id": 151
+  },
+  {
+   "type": "single",
+   "question": "装饰装修作业脚手架施工荷载标准值是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "4.0kN/m2"
+    },
+    {
+     "key": "B",
+     "text": "3.0kN/m2"
+    },
+    {
+     "key": "C",
+     "text": "2.0kN/m2"
+    },
+    {
+     "key": "D",
+     "text": "1.0kN/m2"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "脚手架工程",
+   "chapter": "脚手架工程",
+   "id": 152
+  },
+  {
+   "type": "multi",
+   "question": "下列脚手架搭设过程应进行检查的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "基础完工后及脚手架搭设后"
+    },
+    {
+     "key": "B",
+     "text": "首层水平杆搭设前"
+    },
+    {
+     "key": "C",
+     "text": "作业脚手架每搭设一个楼层高度"
+    },
+    {
+     "key": "D",
+     "text": "附着式升降脚手架在每次提升前、提升就位后"
+    },
+    {
+     "key": "E",
+     "text": "附着式升降脚手架支座、悬挑脚手架悬挑结构搭设固定后"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "脚手架工程",
+   "chapter": "脚手架工程",
+   "id": 153
+  },
+  {
+   "type": "judge",
+   "question": "附着或支承在工程结构上的脚手架，不应使所附着的工程结构或支承脚手架的工程结构受到损害。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "脚手架工程",
+   "chapter": "脚手架工程",
+   "id": 154
+  },
+  {
+   "type": "judge",
+   "question": "支撑脚手架独立架体高宽比可以为4.0。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "脚手架工程",
+   "chapter": "脚手架工程",
+   "id": 155
+  },
+  {
+   "type": "single",
+   "question": "层面工程面瓦材必须铺置牢固，在大风及地震设防地区或屋面坡度大于（）时，应采取固定加强措施。",
+   "options": [
+    {
+     "key": "A",
+     "text": "30%"
+    },
+    {
+     "key": "B",
+     "text": "50%"
+    },
+    {
+     "key": "C",
+     "text": "75%"
+    },
+    {
+     "key": "D",
+     "text": "100%"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "屋面工程",
+   "chapter": "砌体与装饰装修",
+   "id": 156
+  },
+  {
+   "type": "single",
+   "question": "施工前应对施工管理人员和（）进行技术交底。",
+   "options": [
+    {
+     "key": "A",
+     "text": "作业人员"
+    },
+    {
+     "key": "B",
+     "text": "施工监理"
+    },
+    {
+     "key": "C",
+     "text": "施工工人"
+    },
+    {
+     "key": "D",
+     "text": "施工质检员"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "技术交底",
+   "chapter": "施工组织与管理",
+   "id": 157
+  },
+  {
+   "type": "multi",
+   "question": "设计交底的内容一般包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "施工图设计文件总体介绍"
+    },
+    {
+     "key": "B",
+     "text": "特殊的工艺要求"
+    },
+    {
+     "key": "C",
+     "text": "施工中的难点、疑点和容易发生的问题"
+    },
+    {
+     "key": "D",
+     "text": "设计意图说明"
+    },
+    {
+     "key": "E",
+     "text": "地基处理方法是否合理"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "设计交底",
+   "chapter": "施工组织与管理",
+   "id": 158
+  },
+  {
+   "type": "judge",
+   "question": "施工过程质量检测试样均应从现场相应的施工部位制取。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "质量检测",
+   "chapter": "质量与验收",
+   "id": 159
+  },
+  {
+   "type": "judge",
+   "question": "建设单位应在竣工预验收合格后组织监理、施工、设计、勘察单位等相关单位项目负责人进行工程竣工验收。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "竣工验收",
+   "chapter": "质量与验收",
+   "id": 160
+  },
+  {
+   "type": "single",
+   "question": "下列不属于预制构件的质量证明文件的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "出厂合格证"
+    },
+    {
+     "key": "B",
+     "text": "混凝土强度检验报告"
+    },
+    {
+     "key": "C",
+     "text": "操作人员的相关材料"
+    },
+    {
+     "key": "D",
+     "text": "合同要求的其他质量证明文件"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 161
+  },
+  {
+   "type": "single",
+   "question": "根据《预应力装配式混凝土框架结构技术标准》(JGJ/T502-2024)，Ⅲ类预应力框架可用于抗震设防烈度为（）及以下地区的框架结构。",
+   "options": [
+    {
+     "key": "A",
+     "text": "6度"
+    },
+    {
+     "key": "B",
+     "text": "7度"
+    },
+    {
+     "key": "C",
+     "text": "8度"
+    },
+    {
+     "key": "D",
+     "text": "9度"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 162
+  },
+  {
+   "type": "multi",
+   "question": "关于预应力框架结构预制构件安装与连接，以下说法正确的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "基础与预制柱的连接方式有杯口基础连接预制柱、钢筋套筒灌浆连接预制柱、柱靴-螺栓连接预制柱"
+    },
+    {
+     "key": "B",
+     "text": "柱靴-螺栓连接预制柱的安装和连接流程在标准中有详细规定"
+    },
+    {
+     "key": "C",
+     "text": "预应力框架预制梁柱的连接方式只有预应力筋一种"
+    },
+    {
+     "key": "D",
+     "text": "梁-螺栓连接的安装及连接流程和要求在标准中有明确说明"
+    },
+    {
+     "key": "E",
+     "text": "预应力筋连接时，张拉力下预应力筋的实测伸长值与计算伸长值的相对允许偏差不应超过±6%"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 163
+  },
+  {
+   "type": "judge",
+   "question": "预应力装配式混凝土框架是指全部或部分的框架梁、框架柱采用预制混凝土构件，并通过施加后张预应力连接形成的装配式混凝土框架。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 164
+  },
+  {
+   "type": "judge",
+   "question": "预应力装配式混凝土框架结构的实施，将减少施工现场的建筑垃圾和扬尘排放，缩短施工周期，降低能源消耗，符合可持续、健康、环保发展的理念。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "装配式建筑",
+   "chapter": "装配式建筑",
+   "id": 165
+  },
+  {
+   "type": "single",
+   "question": "施工现场每台用电设备应有各自专用的开关箱，严禁同一个开关箱直接控制（）台及以上用电设备。",
+   "options": [
+    {
+     "key": "A",
+     "text": "2"
+    },
+    {
+     "key": "B",
+     "text": "3"
+    },
+    {
+     "key": "C",
+     "text": "4"
+    },
+    {
+     "key": "D",
+     "text": "5"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "临时用电",
+   "chapter": "施工安全",
+   "id": 166
+  },
+  {
+   "type": "single",
+   "question": "施工现场临时用电系统应采用的配电系统是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "一级配电系统"
+    },
+    {
+     "key": "B",
+     "text": "二级配电系统"
+    },
+    {
+     "key": "C",
+     "text": "三级配电系统"
+    },
+    {
+     "key": "D",
+     "text": "四级配电系统"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "临时用电",
+   "chapter": "施工安全",
+   "id": 167
+  },
+  {
+   "type": "multi",
+   "question": "施工现场临时用电工程专用的电源中性点直接接地的220V/380V三相四线制低压电力系统，应符合的规定有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "采用三级配电系统"
+    },
+    {
+     "key": "B",
+     "text": "采用TN-S系统"
+    },
+    {
+     "key": "C",
+     "text": "采用TN-C系统"
+    },
+    {
+     "key": "D",
+     "text": "采用二级剩余电流动作保护系统"
+    },
+    {
+     "key": "E",
+     "text": "采用三级剩余电流动作保护系统"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "临时用电",
+   "chapter": "施工安全",
+   "id": 168
+  },
+  {
+   "type": "judge",
+   "question": "保护接地导体(PE)和保护接地中性导体(PEN)上严禁装设开关、断路器或熔断器。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "临时用电",
+   "chapter": "施工安全",
+   "id": 169
+  },
+  {
+   "type": "judge",
+   "question": "发电机组电源与市电线路电源可以并列运行，但需设置双重保护装置。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "临时用电",
+   "chapter": "施工安全",
+   "id": 170
+  },
+  {
+   "type": "single",
+   "question": "三星级绿色建筑的绿色建材应用比例要求是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "10%"
+    },
+    {
+     "key": "B",
+     "text": "20%"
+    },
+    {
+     "key": "C",
+     "text": "30%"
+    },
+    {
+     "key": "D",
+     "text": "40%"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "绿色建筑",
+   "chapter": "绿色建造",
+   "id": 171
+  },
+  {
+   "type": "multi",
+   "question": "下列关于绿色建筑“健康舒适”指标的说法中，正确的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "人员长期停留场所的照明产品需符合光生物安全性危险类别要求"
+    },
+    {
+     "key": "B",
+     "text": "LED照明产品的光输出波形波动深度应满足GB/T31831的规定"
+    },
+    {
+     "key": "C",
+     "text": "室内PM2.5年均浓度不高于25μg/m³时可获得6分"
+    },
+    {
+     "key": "D",
+     "text": "主要功能房间的空气声隔声性能达到高标准限值可得5分"
+    },
+    {
+     "key": "E",
+     "text": "围护结构结露热性能只需满足《民用建筑热工设计规范》的计算要求"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "绿色建筑",
+   "chapter": "绿色建造",
+   "id": 172
+  },
+  {
+   "type": "judge",
+   "question": "绿色建筑预评价应在建筑工程施工图设计完成前进行。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "绿色建筑",
+   "chapter": "绿色建造",
+   "id": 173
+  },
+  {
+   "type": "judge",
+   "question": "绿色建筑预评价应在建筑工程竣工后进行，正式评价可在施工图设计完成后开展。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "绿色建筑",
+   "chapter": "绿色建造",
+   "id": 174
+  },
+  {
+   "type": "single",
+   "question": "项目部应建立以（）为第一责任人的绿色施工管理体系。",
+   "options": [
+    {
+     "key": "A",
+     "text": "项目专职安全员"
+    },
+    {
+     "key": "B",
+     "text": "项目经理"
+    },
+    {
+     "key": "C",
+     "text": "技术负责人"
+    },
+    {
+     "key": "D",
+     "text": "绿色专员"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "绿色施工",
+   "chapter": "绿色建造",
+   "id": 175
+  },
+  {
+   "type": "multi",
+   "question": "当发生下列（）情况时，不得评为绿色施工合格项目。",
+   "options": [
+    {
+     "key": "A",
+     "text": "发生一般质量事故但未造成社会影响"
+    },
+    {
+     "key": "B",
+     "text": "施工中因环境保护问题被政府管理部门处罚"
+    },
+    {
+     "key": "C",
+     "text": "施工现场临时堆放建筑垃圾未及时清理"
+    },
+    {
+     "key": "D",
+     "text": "夜间施工未取得相关许可但未扰民"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "绿色施工",
+   "chapter": "绿色建造",
+   "id": 176
+  },
+  {
+   "type": "multi",
+   "question": "工程项目绿色施工应符合的规定有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "建立健全的绿色施工管理体系和制度"
+    },
+    {
+     "key": "B",
+     "text": "具有齐全的绿色施工策划文件"
+    },
+    {
+     "key": "C",
+     "text": "推广应用全新技术"
+    },
+    {
+     "key": "D",
+     "text": "设立清晰醒目的绿色施工宣传标志"
+    },
+    {
+     "key": "E",
+     "text": "绿色施工批次和阶段评价记录完整，持续改进的资料保存齐全"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "绿色施工",
+   "chapter": "绿色建造",
+   "id": 177
+  },
+  {
+   "type": "judge",
+   "question": "绿色施工组织设计及其方案应包括技术和管理创新的内容及相应措施。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "绿色施工",
+   "chapter": "绿色建造",
+   "id": 178
+  },
+  {
+   "type": "judge",
+   "question": "绿色施工评价框架体系包括基本规定评价、指标评价、要素评价、批次评价、阶段评价和单位工程评价，评价应按此顺序进行。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "绿色施工",
+   "chapter": "绿色建造",
+   "id": 179
+  },
+  {
+   "type": "single",
+   "question": "动弹弹性模量试验应采用尺寸为（）的棱柱体试件。",
+   "options": [
+    {
+     "key": "A",
+     "text": "100mm×100mm×300mm"
+    },
+    {
+     "key": "B",
+     "text": "100mm×100mm×400mm"
+    },
+    {
+     "key": "C",
+     "text": "150mm×150mm×300mm"
+    },
+    {
+     "key": "D",
+     "text": "150mm×150mm×400mm"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "混凝土试验",
+   "chapter": "混凝土工程",
+   "id": 180
+  },
+  {
+   "type": "multi",
+   "question": "下列属于GB/T50082-2024新增试验方法的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "波纹管法收缩试验"
+    },
+    {
+     "key": "B",
+     "text": "抗气体渗透试验"
+    },
+    {
+     "key": "C",
+     "text": "单面冻融法（盐冻法）"
+    },
+    {
+     "key": "D",
+     "text": "早期抗裂试验"
+    },
+    {
+     "key": "E",
+     "text": "传统水压试验法"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C"
+   ],
+   "analysis": "",
+   "topic": "混凝土试验",
+   "chapter": "混凝土工程",
+   "id": 181
+  },
+  {
+   "type": "judge",
+   "question": "混凝土早期抗裂试验适用于测试混凝土在约束条件下的早期抗裂性能。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "混凝土试验",
+   "chapter": "混凝土工程",
+   "id": 182
+  },
+  {
+   "type": "judge",
+   "question": "混凝土长期性能和耐久性能试验中，试件的制作和养护应符合现行国家标准《普通混凝土拌合物性能试验方法标准》GB/T50080的规定。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "混凝土试验",
+   "chapter": "混凝土工程",
+   "id": 183
+  },
+  {
+   "type": "single",
+   "question": "我省规范要求楼梯间应急照明要大于等于（）lx。",
+   "options": [
+    {
+     "key": "A",
+     "text": "3"
+    },
+    {
+     "key": "B",
+     "text": "5"
+    },
+    {
+     "key": "C",
+     "text": "10"
+    },
+    {
+     "key": "D",
+     "text": "15"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "消防工程",
+   "chapter": "施工安全",
+   "id": 184
+  },
+  {
+   "type": "single",
+   "question": "联调测试要求整体消防系统（报警+灭火+防排烟）连续运行（）天无故障。",
+   "options": [
+    {
+     "key": "A",
+     "text": "3"
+    },
+    {
+     "key": "B",
+     "text": "4"
+    },
+    {
+     "key": "C",
+     "text": "5"
+    },
+    {
+     "key": "D",
+     "text": "6"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "消防工程",
+   "chapter": "施工安全",
+   "id": 185
+  },
+  {
+   "type": "multi",
+   "question": "下列属于消防设施的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "火灾自动报警系统"
+    },
+    {
+     "key": "B",
+     "text": "自动灭火系统"
+    },
+    {
+     "key": "C",
+     "text": "照明系统"
+    },
+    {
+     "key": "D",
+     "text": "防烟排烟系统"
+    },
+    {
+     "key": "E",
+     "text": "应急广播"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "消防工程",
+   "chapter": "施工安全",
+   "id": 186
+  },
+  {
+   "type": "judge",
+   "question": "施工单位应编制消防专项施工方案，并经建设单位审核。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "消防工程",
+   "chapter": "施工安全",
+   "id": 187
+  },
+  {
+   "type": "judge",
+   "question": "为简化施工，膨胀型与非膨胀型涂料可采用统一的方式控制裂纹宽度。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "消防工程",
+   "chapter": "施工安全",
+   "id": 188
+  },
+  {
+   "type": "single",
+   "question": "不同防水材料复合使用时，必须进行（）试验，确保相互间不发生不良反应，保证防水系统整体性能。",
+   "options": [
+    {
+     "key": "A",
+     "text": "强度"
+    },
+    {
+     "key": "B",
+     "text": "相容性"
+    },
+    {
+     "key": "C",
+     "text": "兼容性"
+    },
+    {
+     "key": "D",
+     "text": "适应性"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 189
+  },
+  {
+   "type": "single",
+   "question": "屋面工程防水设计工作年限不应低于（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "10年"
+    },
+    {
+     "key": "B",
+     "text": "15年"
+    },
+    {
+     "key": "C",
+     "text": "20年"
+    },
+    {
+     "key": "D",
+     "text": "25年"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 190
+  },
+  {
+   "type": "multi",
+   "question": "以下属于建筑防水工程包含内容的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "屋面防水工程"
+    },
+    {
+     "key": "B",
+     "text": "地下防水工程"
+    },
+    {
+     "key": "C",
+     "text": "室内防水工程"
+    },
+    {
+     "key": "D",
+     "text": "外墙防水工程"
+    },
+    {
+     "key": "E",
+     "text": "输水管道防水"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 191
+  },
+  {
+   "type": "judge",
+   "question": "建筑防水工程设计应遵循“防排结合、刚柔相济、因地制宜、综合治理”原则。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 192
+  },
+  {
+   "type": "judge",
+   "question": "地下工程防水设计年限应高于工程结构设计工作年限。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 193
+  },
+  {
+   "type": "single",
+   "question": "防水设计工作年限不低于（ ）年的外露使用防水卷材应采用日光滤光器的氙弧灯进行人工气候加速老化试验。",
+   "options": [
+    {
+     "key": "A",
+     "text": "3"
+    },
+    {
+     "key": "B",
+     "text": "5"
+    },
+    {
+     "key": "C",
+     "text": "10"
+    },
+    {
+     "key": "D",
+     "text": "20"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 194
+  },
+  {
+   "type": "single",
+   "question": "建筑防水卷材需具备良好的防火性能，外露使用材料燃烧等级不应低于GB8624中规定的（）级。",
+   "options": [
+    {
+     "key": "A",
+     "text": "A"
+    },
+    {
+     "key": "B",
+     "text": "B1"
+    },
+    {
+     "key": "C",
+     "text": "B2"
+    },
+    {
+     "key": "D",
+     "text": "B3"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 195
+  },
+  {
+   "type": "multi",
+   "question": "通过燃烧性能测试评估防水卷材的阻燃性，包括（）等指标，确保材料在实际应用中的安全性。",
+   "options": [
+    {
+     "key": "A",
+     "text": "燃烧密度"
+    },
+    {
+     "key": "B",
+     "text": "燃烧速率"
+    },
+    {
+     "key": "C",
+     "text": "烟雾密度"
+    },
+    {
+     "key": "D",
+     "text": "烟雾速度"
+    },
+    {
+     "key": "E",
+     "text": "烟雾颗粒"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 196
+  },
+  {
+   "type": "judge",
+   "question": "防水卷材试验前,必须去除试件的隔离膜等非持久后才能进行试验。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 197
+  },
+  {
+   "type": "judge",
+   "question": "热熔施工时，沥青涂盖层闪点不应低于200℃,确保在火灾中延缓火势蔓延，保障建筑安全。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 198
+  },
+  {
+   "type": "single",
+   "question": "聚合物水泥防水砂浆浆工程要求是粘结强度（7d）≥（）MPa。",
+   "options": [
+    {
+     "key": "A",
+     "text": "0.7"
+    },
+    {
+     "key": "B",
+     "text": "1"
+    },
+    {
+     "key": "C",
+     "text": "1.2"
+    },
+    {
+     "key": "D",
+     "text": "2"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 199
+  },
+  {
+   "type": "single",
+   "question": "干粉型防水涂料中挥发性有机化合物(VOC)含量≤（）g/kg。",
+   "options": [
+    {
+     "key": "A",
+     "text": "5"
+    },
+    {
+     "key": "B",
+     "text": "10"
+    },
+    {
+     "key": "C",
+     "text": "20"
+    },
+    {
+     "key": "D",
+     "text": "50"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 200
+  },
+  {
+   "type": "multi",
+   "question": "水性防水涂料有害物质限量涉及重金属含量指标的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "镉"
+    },
+    {
+     "key": "B",
+     "text": "铅"
+    },
+    {
+     "key": "C",
+     "text": "铬"
+    },
+    {
+     "key": "D",
+     "text": "汞"
+    },
+    {
+     "key": "E",
+     "text": "镍"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 201
+  },
+  {
+   "type": "judge",
+   "question": "热熔施工类防水涂料挥发性有机化合物(VOC)含量≤50/g/kg。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 202
+  },
+  {
+   "type": "judge",
+   "question": "水性防水涂料中苯含量是≤300mg/kg。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 203
+  },
+  {
+   "type": "single",
+   "question": "（）应当根据绿色建筑等级承担质量保证责任。",
+   "options": [
+    {
+     "key": "A",
+     "text": "行政主管部门"
+    },
+    {
+     "key": "B",
+     "text": "施工单位"
+    },
+    {
+     "key": "C",
+     "text": "设计单位"
+    },
+    {
+     "key": "D",
+     "text": "建设单位"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "绿色建筑",
+   "chapter": "绿色建造",
+   "id": 204
+  },
+  {
+   "type": "single",
+   "question": "我省新建民用建筑的规划、设计、建设，应当采用（）以上绿色建筑标准。",
+   "options": [
+    {
+     "key": "A",
+     "text": "一星级"
+    },
+    {
+     "key": "B",
+     "text": "基本级"
+    },
+    {
+     "key": "C",
+     "text": "二星级"
+    },
+    {
+     "key": "D",
+     "text": "三星级"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "绿色建筑",
+   "chapter": "绿色建造",
+   "id": 205
+  },
+  {
+   "type": "multi",
+   "question": "方案设计、初步设计、施工图设计等建筑工程设计文件应当符合绿色建筑等级标准，并编制包含（）等内容的绿色建筑专篇。",
+   "options": [
+    {
+     "key": "A",
+     "text": "建筑节能"
+    },
+    {
+     "key": "B",
+     "text": "碳排放分析报告"
+    },
+    {
+     "key": "C",
+     "text": "危大工程专项方案"
+    },
+    {
+     "key": "D",
+     "text": "能耗分析指标"
+    },
+    {
+     "key": "E",
+     "text": "用能控制要求"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "绿色建筑",
+   "chapter": "绿色建造",
+   "id": 206
+  },
+  {
+   "type": "judge",
+   "question": "建筑节能改造应当进行建筑节能量核定。使用财政资金进行节能改造的项目，可以委托专业机构进行建筑节能量核定。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "绿色建筑",
+   "chapter": "绿色建造",
+   "id": 207
+  },
+  {
+   "type": "judge",
+   "question": "县级以上地方人民政府有关部门应当制定本行政区域建筑业领域碳排放控制目标。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "绿色建筑",
+   "chapter": "绿色建造",
+   "id": 208
+  },
+  {
+   "type": "single",
+   "question": "根据《规范》第4.5条，可燃性气体报警值应设定为爆炸下限(LEL)的（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "5%"
+    },
+    {
+     "key": "B",
+     "text": "20%"
+    },
+    {
+     "key": "C",
+     "text": "15%"
+    },
+    {
+     "key": "D",
+     "text": "10%"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "有限空间作业",
+   "chapter": "施工安全",
+   "id": 209
+  },
+  {
+   "type": "single",
+   "question": "根据《规范》第4.7条，发包单位应将有限空间作业发包给（）的作业单位。",
+   "options": [
+    {
+     "key": "A",
+     "text": "报价最低的"
+    },
+    {
+     "key": "B",
+     "text": "具备有限空间作业安全生产条件的"
+    },
+    {
+     "key": "C",
+     "text": "关系最近的"
+    },
+    {
+     "key": "D",
+     "text": "规模最大的"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "有限空间作业",
+   "chapter": "施工安全",
+   "id": 210
+  },
+  {
+   "type": "multi",
+   "question": "根据《规范》第5.9条，初始检测结果符合以下哪些条件时，方可实施有限空间作业（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "氧含量为19.5%VOL-23.5%VOL"
+    },
+    {
+     "key": "B",
+     "text": "可燃性气体浓度不大于爆炸下限(LEL)的10%"
+    },
+    {
+     "key": "C",
+     "text": "有毒有害气体浓度不大于GBZ2.1规定的最高容许浓度或短时间接触容许浓度"
+    },
+    {
+     "key": "D",
+     "text": "氧含量为18.0%VOL-25.0%VOL"
+    },
+    {
+     "key": "E",
+     "text": "可燃性气体浓度不大于爆炸下限(LEL)的20%"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C"
+   ],
+   "analysis": "",
+   "topic": "有限空间作业",
+   "chapter": "施工安全",
+   "id": 211
+  },
+  {
+   "type": "judge",
+   "question": "根据《规范》第6.3条，监护人应佩戴明显标识在有限空间外全程持续监护，不应离开作业现场或进入有限空间参与作业。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "有限空间作业",
+   "chapter": "施工安全",
+   "id": 212
+  },
+  {
+   "type": "judge",
+   "question": "根据《规范》第4.3条，作业单位的安全管理制度中应明确有限空间作业审批人、作业负责人、监护人和作业人的职责。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "有限空间作业",
+   "chapter": "施工安全",
+   "id": 213
+  },
+  {
+   "type": "single",
+   "question": "变更导致实际完成的变更工程量与已标价工程量清单或预算书中列明的该项目工程量的变化幅度超过（）的，或已标价工程量清单或预算书中无相同项目及类似项目单价的，按照合理的成本与利润构成的原则，由合同当事人按照约定原则确定变更工作的单价。",
+   "options": [
+    {
+     "key": "A",
+     "text": "10%"
+    },
+    {
+     "key": "B",
+     "text": "15%"
+    },
+    {
+     "key": "C",
+     "text": "20%"
+    },
+    {
+     "key": "D",
+     "text": "30%"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "施工合同管理",
+   "chapter": "合同与成本",
+   "id": 214
+  },
+  {
+   "type": "single",
+   "question": "分包人不能按时开工，应在约定开工前（）天，以书面形式向承包人提出延期开工申请。",
+   "options": [
+    {
+     "key": "A",
+     "text": "3"
+    },
+    {
+     "key": "B",
+     "text": "5"
+    },
+    {
+     "key": "C",
+     "text": "7"
+    },
+    {
+     "key": "D",
+     "text": "14"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "施工合同管理",
+   "chapter": "合同与成本",
+   "id": 215
+  },
+  {
+   "type": "multi",
+   "question": "承包方在合同签订阶段，由合约管理部门负责协调企业的（）等部门对合同文本进行评审。",
+   "options": [
+    {
+     "key": "A",
+     "text": "工程"
+    },
+    {
+     "key": "B",
+     "text": "技术"
+    },
+    {
+     "key": "C",
+     "text": "质量"
+    },
+    {
+     "key": "D",
+     "text": "物资"
+    },
+    {
+     "key": "E",
+     "text": "安全"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "施工合同管理",
+   "chapter": "合同与成本",
+   "id": 216
+  },
+  {
+   "type": "judge",
+   "question": "计算工程预付款时，包含不属于承包商使用的费用。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "施工合同管理",
+   "chapter": "合同与成本",
+   "id": 217
+  },
+  {
+   "type": "judge",
+   "question": "在施工合同的解释优先顺序中，专用合同条款及其附件排第一位。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "施工合同管理",
+   "chapter": "合同与成本",
+   "id": 218
+  },
+  {
+   "type": "single",
+   "question": "施工单位应在干扰事件发生后（）天内，向监理工程师发出索赔意向通知。",
+   "options": [
+    {
+     "key": "A",
+     "text": "7"
+    },
+    {
+     "key": "B",
+     "text": "14"
+    },
+    {
+     "key": "C",
+     "text": "28"
+    },
+    {
+     "key": "D",
+     "text": "56"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "工程索赔",
+   "chapter": "合同与成本",
+   "id": 219
+  },
+  {
+   "type": "single",
+   "question": "关于施工阶段的风险管控，下列不属于质量安全风险的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "施工工艺不达标"
+    },
+    {
+     "key": "B",
+     "text": "技术交底不充分"
+    },
+    {
+     "key": "C",
+     "text": "成品保护意识薄弱"
+    },
+    {
+     "key": "D",
+     "text": "机械使用效率低下"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "风险管理",
+   "chapter": "施工安全",
+   "id": 220
+  },
+  {
+   "type": "multi",
+   "question": "《建设工程施工合同（示范文本）》主要由（）组成。",
+   "options": [
+    {
+     "key": "A",
+     "text": "合同协议书"
+    },
+    {
+     "key": "B",
+     "text": "通用合同条款"
+    },
+    {
+     "key": "C",
+     "text": "专用合同条款"
+    },
+    {
+     "key": "D",
+     "text": "技术标准"
+    },
+    {
+     "key": "E",
+     "text": "图纸"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C"
+   ],
+   "analysis": "",
+   "topic": "施工合同",
+   "chapter": "合同与成本",
+   "id": 221
+  },
+  {
+   "type": "judge",
+   "question": "索赔通常分为费用索赔和工期索赔两种。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "工程索赔",
+   "chapter": "合同与成本",
+   "id": 222
+  },
+  {
+   "type": "judge",
+   "question": "因不可抗力引起或将引起工期延误，发包人要求赶工的，由此增加的赶工费用由发包人承担。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "工程索赔",
+   "chapter": "合同与成本",
+   "id": 223
+  },
+  {
+   "type": "single",
+   "question": "按照建筑安装工程造价的构成，其他项目费用不包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "暂列金额"
+    },
+    {
+     "key": "B",
+     "text": "计日工"
+    },
+    {
+     "key": "C",
+     "text": "总包服务费"
+    },
+    {
+     "key": "D",
+     "text": "安全施工费"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "工程造价",
+   "chapter": "合同与成本",
+   "id": 224
+  },
+  {
+   "type": "single",
+   "question": "根据《建筑安装工程费用项目组成》（建标[2013]44号），以下不属于措施费的内容的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "文明施工费"
+    },
+    {
+     "key": "B",
+     "text": "临时设施费"
+    },
+    {
+     "key": "C",
+     "text": "工程排污费"
+    },
+    {
+     "key": "D",
+     "text": "脚手架费"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "工程造价",
+   "chapter": "合同与成本",
+   "id": 225
+  },
+  {
+   "type": "multi",
+   "question": "建筑安装工程费中材料费包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "材料原价"
+    },
+    {
+     "key": "B",
+     "text": "运杂费"
+    },
+    {
+     "key": "C",
+     "text": "运输损耗费"
+    },
+    {
+     "key": "D",
+     "text": "定额损耗费"
+    },
+    {
+     "key": "E",
+     "text": "采购及保管费"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "工程造价",
+   "chapter": "合同与成本",
+   "id": 226
+  },
+  {
+   "type": "judge",
+   "question": "检验检测费属于施工机具使用费。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "工程造价",
+   "chapter": "合同与成本",
+   "id": 227
+  },
+  {
+   "type": "judge",
+   "question": "专家会议法属于施工成本预测中的定量预测。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "成本预测",
+   "chapter": "合同与成本",
+   "id": 228
+  },
+  {
+   "type": "single",
+   "question": "以下属于合同内索赔的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "法律法规突然变化导致的索赔"
+    },
+    {
+     "key": "B",
+     "text": "异常恶劣气候导致的索赔"
+    },
+    {
+     "key": "C",
+     "text": "合同约定延期付款利息的索赔"
+    },
+    {
+     "key": "D",
+     "text": "隐藏现场条件变化导致的索赔"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "工程索赔",
+   "chapter": "合同与成本",
+   "id": 229
+  },
+  {
+   "type": "single",
+   "question": "索赔文件的核心内容是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "索赔信"
+    },
+    {
+     "key": "B",
+     "text": "索赔报告"
+    },
+    {
+     "key": "C",
+     "text": "详细计算书"
+    },
+    {
+     "key": "D",
+     "text": "索赔证据"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "工程索赔",
+   "chapter": "合同与成本",
+   "id": 230
+  },
+  {
+   "type": "multi",
+   "question": "以下属于工程索赔常见证据的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "招标文件、合同文本及附件"
+    },
+    {
+     "key": "B",
+     "text": "来往信件、会谈纪要"
+    },
+    {
+     "key": "C",
+     "text": "工程进度计划"
+    },
+    {
+     "key": "D",
+     "text": "气象报告和资料"
+    },
+    {
+     "key": "E",
+     "text": "承包人的施工日志（无监理签字）"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "工程索赔",
+   "chapter": "合同与成本",
+   "id": 231
+  },
+  {
+   "type": "judge",
+   "question": "索赔报告的核心部分是索赔信，需简明扼要说明索赔事由。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "工程索赔",
+   "chapter": "合同与成本",
+   "id": 232
+  },
+  {
+   "type": "judge",
+   "question": "日常所说的项目索赔主要指狭义索赔，即承包商向业主提出的索赔。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "工程索赔",
+   "chapter": "合同与成本",
+   "id": 233
+  },
+  {
+   "type": "single",
+   "question": "调值公式法的计算公式：P=P0×（a0+a1×A/A0+a2×B/B0+a3×C/C0+a4×D/D0+...）中，a0的含义是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "调值前工程合同价款"
+    },
+    {
+     "key": "B",
+     "text": "现行价格指数"
+    },
+    {
+     "key": "C",
+     "text": "基期价格指数"
+    },
+    {
+     "key": "D",
+     "text": "固定因素"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "工程结算",
+   "chapter": "合同与成本",
+   "id": 234
+  },
+  {
+   "type": "single",
+   "question": "根据《建设工程施工合同（示范文本）》，工程竣工验收报告经发包人认可后（）天内承包人向发包人提交竣工结算报告及完整的竣工结算资料。",
+   "options": [
+    {
+     "key": "A",
+     "text": "7"
+    },
+    {
+     "key": "B",
+     "text": "14"
+    },
+    {
+     "key": "C",
+     "text": "28"
+    },
+    {
+     "key": "D",
+     "text": "56"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "工程结算",
+   "chapter": "合同与成本",
+   "id": 235
+  },
+  {
+   "type": "multi",
+   "question": "建设工程竣工结算分为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "分部工程竣工结算"
+    },
+    {
+     "key": "B",
+     "text": "分项工程竣工结算"
+    },
+    {
+     "key": "C",
+     "text": "单项工程竣工结算"
+    },
+    {
+     "key": "D",
+     "text": "单位工程竣工结算"
+    },
+    {
+     "key": "E",
+     "text": "项目竣工总结算"
+    }
+   ],
+   "answer": [
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "工程结算",
+   "chapter": "合同与成本",
+   "id": 236
+  },
+  {
+   "type": "judge",
+   "question": "承包人在提交的最终结清申请中，只限于提出竣工结算后的索赔，提出索赔的期限自发承包双方最终结清时终止。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "工程结算",
+   "chapter": "合同与成本",
+   "id": 237
+  },
+  {
+   "type": "judge",
+   "question": "发包人在收到承包人送交的索赔通知书和有关索赔的进一步证明材料后的14天内给索赔处理结果答复承包人，如果发包人逾期未做出答复，视为承包人索赔要求已经发包人认可。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "工程索赔",
+   "chapter": "合同与成本",
+   "id": 238
+  },
+  {
+   "type": "single",
+   "question": "下列不属于施工项目成本预测依据的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "施工企业的利润目标对企业降低工程成本的要求"
+    },
+    {
+     "key": "B",
+     "text": "施工企业施工项目的降低成本水平"
+    },
+    {
+     "key": "C",
+     "text": "施工项目的成本估算(概算或预算)"
+    },
+    {
+     "key": "D",
+     "text": "施工项目的合同价格"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "成本预测",
+   "chapter": "合同与成本",
+   "id": 239
+  },
+  {
+   "type": "single",
+   "question": "在工程网络计划中，工作的自由时差是指在不影响（）的前提下，该工作可以利用的机动时间。",
+   "options": [
+    {
+     "key": "A",
+     "text": "紧后工作最早开始"
+    },
+    {
+     "key": "B",
+     "text": "后续工作最迟开始"
+    },
+    {
+     "key": "C",
+     "text": "紧后工作最迟开始"
+    },
+    {
+     "key": "D",
+     "text": "本工作最早完成"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "网络计划",
+   "chapter": "施工组织与管理",
+   "id": 240
+  },
+  {
+   "type": "multi",
+   "question": "工程项目进度计划包括的内容有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "项目的前期"
+    },
+    {
+     "key": "B",
+     "text": "设计"
+    },
+    {
+     "key": "C",
+     "text": "施工"
+    },
+    {
+     "key": "D",
+     "text": "使用前的准备"
+    },
+    {
+     "key": "E",
+     "text": "使用后的准备"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "进度计划",
+   "chapter": "施工组织与管理",
+   "id": 241
+  },
+  {
+   "type": "judge",
+   "question": "暂列金额用于施工合同签订时已明确或者可预见的所需材料、工程设备、服务的采购、工程变更索赔以及发生的现场签证确认的费用等。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "施工合同",
+   "chapter": "合同与成本",
+   "id": 242
+  },
+  {
+   "type": "judge",
+   "question": "进度和工期是两个既相互联系，又相互区别的概念。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "进度计划",
+   "chapter": "施工组织与管理",
+   "id": 243
+  },
+  {
+   "type": "single",
+   "question": "在不影响工期和有关时限约束的前提下，一项工作可以利用的机动时间是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "自由时差"
+    },
+    {
+     "key": "B",
+     "text": "总时差"
+    },
+    {
+     "key": "C",
+     "text": "工作时差"
+    },
+    {
+     "key": "D",
+     "text": "工期"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "网络计划",
+   "chapter": "施工组织与管理",
+   "id": 244
+  },
+  {
+   "type": "single",
+   "question": "可以形象、直观地反映实际进度与计划进度的比较情况的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "横道图比较法"
+    },
+    {
+     "key": "B",
+     "text": "S形曲线比较法"
+    },
+    {
+     "key": "C",
+     "text": "列表表现法"
+    },
+    {
+     "key": "D",
+     "text": "前锋线法"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "进度计划",
+   "chapter": "施工组织与管理",
+   "id": 245
+  },
+  {
+   "type": "multi",
+   "question": "下列属于网络计划方法优点的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "能全面清楚表达各项工作之间的先后顺序"
+    },
+    {
+     "key": "B",
+     "text": "能通过时间参数的计算，找出关键工作和关键线路"
+    },
+    {
+     "key": "C",
+     "text": "能从若干可行方案中找出最优方案"
+    },
+    {
+     "key": "D",
+     "text": "编制简单，使用方便"
+    },
+    {
+     "key": "E",
+     "text": "可清晰表达工作之间开展流水施工情况"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "网络计划",
+   "chapter": "施工组织与管理",
+   "id": 246
+  },
+  {
+   "type": "judge",
+   "question": "总时差等于本工作自由时差+紧后工作总时差最小值。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "网络计划",
+   "chapter": "施工组织与管理",
+   "id": 247
+  },
+  {
+   "type": "judge",
+   "question": "自终点向起点观察，凡是自始至终不出现波形线的通路，就是关键线路。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "网络计划",
+   "chapter": "施工组织与管理",
+   "id": 248
+  },
+  {
+   "type": "single",
+   "question": "施工项目的进度计划用时标网络图表达时，可以采用实际进度（）进行实际进度与计划进度的比较。",
+   "options": [
+    {
+     "key": "A",
+     "text": "双代号网络分析法"
+    },
+    {
+     "key": "B",
+     "text": "前锋线比较法"
+    },
+    {
+     "key": "C",
+     "text": "横道图法"
+    },
+    {
+     "key": "D",
+     "text": "单代号网络分析法"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "进度计划",
+   "chapter": "施工组织与管理",
+   "id": 249
+  },
+  {
+   "type": "single",
+   "question": "前锋线比较法用（）的方式来表示。",
+   "options": [
+    {
+     "key": "A",
+     "text": "点划线"
+    },
+    {
+     "key": "B",
+     "text": "单向箭头"
+    },
+    {
+     "key": "C",
+     "text": "双向箭头"
+    },
+    {
+     "key": "D",
+     "text": "波浪线"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "进度计划",
+   "chapter": "施工组织与管理",
+   "id": 250
+  },
+  {
+   "type": "multi",
+   "question": "施工项目管理组织机构设置原则有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "目的性原则"
+    },
+    {
+     "key": "B",
+     "text": "精干高效原则"
+    },
+    {
+     "key": "C",
+     "text": "管理跨度和分层统一原则"
+    },
+    {
+     "key": "D",
+     "text": "业务系统化管理原则"
+    },
+    {
+     "key": "E",
+     "text": "人员精简化原则"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "施工组织",
+   "chapter": "施工组织与管理",
+   "id": 251
+  },
+  {
+   "type": "judge",
+   "question": "施工层是指为了满足横向流水施工的需要，在工程水平方向上划分的层次。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "施工组织",
+   "chapter": "施工组织与管理",
+   "id": 252
+  },
+  {
+   "type": "judge",
+   "question": "关键工作是指网络计划中总时差最小的工作。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "网络计划",
+   "chapter": "施工组织与管理",
+   "id": 253
+  },
+  {
+   "type": "single",
+   "question": "桩基工程的钢筋笼的内径应比导管接头处外径大（）mm以上。",
+   "options": [
+    {
+     "key": "A",
+     "text": "50"
+    },
+    {
+     "key": "B",
+     "text": "100"
+    },
+    {
+     "key": "C",
+     "text": "150"
+    },
+    {
+     "key": "D",
+     "text": "200"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "桩基工程",
+   "chapter": "地基与基坑工程",
+   "id": 254
+  },
+  {
+   "type": "single",
+   "question": "泥浆护壁钻孔灌注桩桩顶标高至少要比设计标高高出（）m。",
+   "options": [
+    {
+     "key": "A",
+     "text": "0.5"
+    },
+    {
+     "key": "B",
+     "text": "0.6"
+    },
+    {
+     "key": "C",
+     "text": "0.8"
+    },
+    {
+     "key": "D",
+     "text": "1"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "桩基工程",
+   "chapter": "地基与基坑工程",
+   "id": 255
+  },
+  {
+   "type": "multi",
+   "question": "桩基承载力检验要求，（）应采用静载试验的方法对桩基承载力进行检验，检验桩数不应少于总数1%，且不少于3根。",
+   "options": [
+    {
+     "key": "A",
+     "text": "设计等级为甲级"
+    },
+    {
+     "key": "B",
+     "text": "设计等级为乙级"
+    },
+    {
+     "key": "C",
+     "text": "设计等级为丙级"
+    },
+    {
+     "key": "D",
+     "text": "地质条件复杂"
+    },
+    {
+     "key": "E",
+     "text": "地质条件良好"
+    }
+   ],
+   "answer": [
+    "A",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "桩基工程",
+   "chapter": "地基与基坑工程",
+   "id": 256
+  },
+  {
+   "type": "judge",
+   "question": "桩基工程钢筋笼保护层垫块，每节钢筋笼设置数量不应小于2组，长度大于12m的中间加设1组，每组块数不得小于3块，且不得分布在同一截面的主筋上。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "桩基工程",
+   "chapter": "地基与基坑工程",
+   "id": 257
+  },
+  {
+   "type": "judge",
+   "question": "泥浆护壁钻孔灌注桩桩护壁泥浆和清孔时，用泥浆循环清孔时，清孔后的泥浆相对密度控制在1.15~1.25。第一次清孔在提钻前，第二次清孔在沉放钢筋笼、下导管后，水下浇筑混凝土后。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "桩基工程",
+   "chapter": "地基与基坑工程",
+   "id": 258
+  },
+  {
+   "type": "single",
+   "question": "板材隔墙竖向接板不宜超过一次，相邻条板接头位置应错开（）mm以上。",
+   "options": [
+    {
+     "key": "A",
+     "text": "200"
+    },
+    {
+     "key": "B",
+     "text": "300"
+    },
+    {
+     "key": "C",
+     "text": "500"
+    },
+    {
+     "key": "D",
+     "text": "600"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "轻质隔墙",
+   "chapter": "砌体与装饰装修",
+   "id": 259
+  },
+  {
+   "type": "single",
+   "question": "吊顶工程的吊杆长度超过（）m时，应设置反向支撑。",
+   "options": [
+    {
+     "key": "A",
+     "text": "0.5"
+    },
+    {
+     "key": "B",
+     "text": "1"
+    },
+    {
+     "key": "C",
+     "text": "1.5"
+    },
+    {
+     "key": "D",
+     "text": "2"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "吊顶工程",
+   "chapter": "砌体与装饰装修",
+   "id": 260
+  },
+  {
+   "type": "multi",
+   "question": "轻质隔墙按构造方式和所用材料不同分为（）等。",
+   "options": [
+    {
+     "key": "A",
+     "text": "金属隔墙"
+    },
+    {
+     "key": "B",
+     "text": "板材隔墙"
+    },
+    {
+     "key": "C",
+     "text": "骨架隔墙"
+    },
+    {
+     "key": "D",
+     "text": "活动隔墙"
+    },
+    {
+     "key": "E",
+     "text": "玻璃隔墙"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "轻质隔墙",
+   "chapter": "砌体与装饰装修",
+   "id": 261
+  },
+  {
+   "type": "judge",
+   "question": "石膏板应采用自攻螺钉固定，从板的一侧向另一侧固定。钉头略埋入板内，但不得损坏纸面。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "吊顶工程",
+   "chapter": "砌体与装饰装修",
+   "id": 262
+  },
+  {
+   "type": "judge",
+   "question": "地面检查防水隔离层应采用蓄水试验，蓄水最浅处不小于10mm，蓄水时间不得少于24h。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "地面工程",
+   "chapter": "砌体与装饰装修",
+   "id": 263
+  },
+  {
+   "type": "single",
+   "question": "找平层设置的分隔缝可兼作排气道，排气道宽度宜为40mm，排气道纵横间距宜为6m，屋面面积每（）㎡宜设置一个排气孔。",
+   "options": [
+    {
+     "key": "A",
+     "text": "20"
+    },
+    {
+     "key": "B",
+     "text": "36"
+    },
+    {
+     "key": "C",
+     "text": "48"
+    },
+    {
+     "key": "D",
+     "text": "60"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "屋面工程",
+   "chapter": "砌体与装饰装修",
+   "id": 264
+  },
+  {
+   "type": "single",
+   "question": "单位工程的竣工验收应由（）组织。",
+   "options": [
+    {
+     "key": "A",
+     "text": "建设单位项目负责人"
+    },
+    {
+     "key": "B",
+     "text": "施工单位项目负责人"
+    },
+    {
+     "key": "C",
+     "text": "总监理工程师"
+    },
+    {
+     "key": "D",
+     "text": "设计单位项目负责人"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "竣工验收",
+   "chapter": "质量与验收",
+   "id": 265
+  },
+  {
+   "type": "multi",
+   "question": "质量事故报告内容应包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "事故发生的简要经过"
+    },
+    {
+     "key": "B",
+     "text": "事故的初步原因"
+    },
+    {
+     "key": "C",
+     "text": "事故发生后采取的措施及事故控制情况"
+    },
+    {
+     "key": "D",
+     "text": "事故报告单位、联系人及联系方式"
+    },
+    {
+     "key": "E",
+     "text": "事故防范和整改措施"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "质量事故",
+   "chapter": "质量与验收",
+   "id": 266
+  },
+  {
+   "type": "judge",
+   "question": "檐沟、天沟卷材施工时，宜顺檐沟、天沟方向铺贴，搭接缝应顺流水方向。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "屋面工程",
+   "chapter": "砌体与装饰装修",
+   "id": 267
+  },
+  {
+   "type": "judge",
+   "question": "女儿墙和山墙的压顶向外排水坡度不应小于5%，压顶内侧下端应做成鹰嘴或滴水槽。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "屋面工程",
+   "chapter": "砌体与装饰装修",
+   "id": 268
+  },
+  {
+   "type": "single",
+   "question": "双排脚手架一次搭设高度不宜超过（）m，超过时，应采用分段搭设的措施。",
+   "options": [
+    {
+     "key": "A",
+     "text": "24"
+    },
+    {
+     "key": "B",
+     "text": "48"
+    },
+    {
+     "key": "C",
+     "text": "50"
+    },
+    {
+     "key": "D",
+     "text": "80"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "脚手架工程",
+   "chapter": "脚手架工程",
+   "id": 269
+  },
+  {
+   "type": "single",
+   "question": "脚手架必须设置纵、横向扫地杆，纵向扫地杆应采用直角扣件固定在距底座上皮不大于（）mm处的立杆上。",
+   "options": [
+    {
+     "key": "A",
+     "text": "50"
+    },
+    {
+     "key": "B",
+     "text": "100"
+    },
+    {
+     "key": "C",
+     "text": "150"
+    },
+    {
+     "key": "D",
+     "text": "200"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "脚手架工程",
+   "chapter": "脚手架工程",
+   "id": 270
+  },
+  {
+   "type": "multi",
+   "question": "下列属于脚手架专项施工方案主要内容的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "结构与构造设计施工图"
+    },
+    {
+     "key": "B",
+     "text": "结构设计计算书"
+    },
+    {
+     "key": "C",
+     "text": "质量控制措施"
+    },
+    {
+     "key": "D",
+     "text": "操作人员证书"
+    },
+    {
+     "key": "E",
+     "text": "应急预案制定"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "脚手架工程",
+   "chapter": "脚手架工程",
+   "id": 271
+  },
+  {
+   "type": "judge",
+   "question": "脚手架拆除同层杆件和构配件应按先内外的顺序拆除；剪刀撑、斜撑等加固件应在拆卸至该部位杆件时拆除。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "脚手架工程",
+   "chapter": "脚手架工程",
+   "id": 272
+  },
+  {
+   "type": "judge",
+   "question": "拆下的模板等堆放时，不能过于靠近楼层边沿，应与楼层边沿留出不小于1m的安全距离，码放高度也不宜超过1m。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "模板工程施工",
+   "chapter": "模板工程",
+   "id": 273
+  },
+  {
+   "type": "single",
+   "question": "电梯井口应设置防护门，其高度应不小于（）m，防护门底端距地面高度应不大于50mm，并应设置挡脚板。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1"
+    },
+    {
+     "key": "B",
+     "text": "1.2"
+    },
+    {
+     "key": "C",
+     "text": "1.5"
+    },
+    {
+     "key": "D",
+     "text": "1.8"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "洞口防护",
+   "chapter": "施工安全",
+   "id": 274
+  },
+  {
+   "type": "single",
+   "question": "短边长度超过（）m的非竖向洞口，应在洞口作业侧设置高度不小于1.2m的防护栏杆，洞口采用安全平网封闭。",
+   "options": [
+    {
+     "key": "A",
+     "text": "0.5"
+    },
+    {
+     "key": "B",
+     "text": "1"
+    },
+    {
+     "key": "C",
+     "text": "1.2"
+    },
+    {
+     "key": "D",
+     "text": "1.5"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "洞口防护",
+   "chapter": "施工安全",
+   "id": 275
+  },
+  {
+   "type": "multi",
+   "question": "下列属于“安全管理”检查评分表保证项目的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "安全生产责任制"
+    },
+    {
+     "key": "B",
+     "text": "安全检查"
+    },
+    {
+     "key": "C",
+     "text": "安全技术交底"
+    },
+    {
+     "key": "D",
+     "text": "施工组织设计及专项施工方案"
+    },
+    {
+     "key": "E",
+     "text": "生产安全事故处理"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "施工安全",
+   "chapter": "施工安全",
+   "id": 276
+  },
+  {
+   "type": "judge",
+   "question": "安全立网主要用于洞口和作业层防护。网的宽度不小于3m，网目的边长不大于10cm。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "安全防护",
+   "chapter": "施工安全",
+   "id": 277
+  },
+  {
+   "type": "judge",
+   "question": "电梯井口应设置防护门，其高度应不小于1.2m，防护门底端距地面高度应不大于50mm，并应设置挡脚板。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "洞口防护",
+   "chapter": "施工安全",
+   "id": 278
+  },
+  {
+   "type": "single",
+   "question": "绿色施工管理要求采购地距现场（）km内采购量占比≥70%。",
+   "options": [
+    {
+     "key": "A",
+     "text": "200"
+    },
+    {
+     "key": "B",
+     "text": "300"
+    },
+    {
+     "key": "C",
+     "text": "500"
+    },
+    {
+     "key": "D",
+     "text": "800"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "绿色施工",
+   "chapter": "绿色建造",
+   "id": 279
+  },
+  {
+   "type": "single",
+   "question": "关于环境保护的相关要求，说法错误的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "昼间噪声监测不得超过70dB"
+    },
+    {
+     "key": "B",
+     "text": "夜间噪声监测不得超过超过55dB"
+    },
+    {
+     "key": "C",
+     "text": "固体废弃物排放量，现浇混凝土结构现场不宜高于300t/万m2"
+    },
+    {
+     "key": "D",
+     "text": "固体废弃物排放量，装配式混凝土结构现场不宜高于300t/万m2"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "绿色施工",
+   "chapter": "绿色建造",
+   "id": 280
+  },
+  {
+   "type": "multi",
+   "question": "施工安全技术交底要充分考虑到各分部分项工程的不安全因素，其内容必须（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "具体"
+    },
+    {
+     "key": "B",
+     "text": "明确"
+    },
+    {
+     "key": "C",
+     "text": "广泛"
+    },
+    {
+     "key": "D",
+     "text": "针对性强"
+    },
+    {
+     "key": "E",
+     "text": "涉及面广"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "安全交底",
+   "chapter": "施工安全",
+   "id": 281
+  },
+  {
+   "type": "judge",
+   "question": "绿色施工管理要求建筑垃圾回收再利用率≥50%。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "绿色施工",
+   "chapter": "绿色建造",
+   "id": 282
+  },
+  {
+   "type": "judge",
+   "question": "安全技术交底书要按分项工程归放一起，以备查验。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "安全交底",
+   "chapter": "施工安全",
+   "id": 283
+  },
+  {
+   "type": "single",
+   "question": "高处作业是指凡在坠落高度基准面（）及以上有可能坠落的高处进行的作业。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1m"
+    },
+    {
+     "key": "B",
+     "text": "2m"
+    },
+    {
+     "key": "C",
+     "text": "3m"
+    },
+    {
+     "key": "D",
+     "text": "5m"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "高处作业",
+   "chapter": "施工安全",
+   "id": 284
+  },
+  {
+   "type": "single",
+   "question": "关于拆除作业的规定，下列说法正确的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "拆除作业应从下至上逐层拆除并应分段进行"
+    },
+    {
+     "key": "B",
+     "text": "物料可以集中堆放在水平构件上"
+    },
+    {
+     "key": "C",
+     "text": "拆除建筑墙体时，严禁采用底部掏掘或推倒的方法"
+    },
+    {
+     "key": "D",
+     "text": "拆除建筑时应先拆除承重结构，再拆除非承重结构"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "拆除作业",
+   "chapter": "施工安全",
+   "id": 285
+  },
+  {
+   "type": "multi",
+   "question": "下列劳动防护用品，属于电焊工应配备的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "阻燃防护服"
+    },
+    {
+     "key": "B",
+     "text": "绝缘鞋"
+    },
+    {
+     "key": "C",
+     "text": "防毒面罩"
+    },
+    {
+     "key": "D",
+     "text": "电焊手套"
+    },
+    {
+     "key": "E",
+     "text": "专用标识服装"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "劳动防护",
+   "chapter": "施工安全",
+   "id": 286
+  },
+  {
+   "type": "judge",
+   "question": "在高处拆除或拆卸作业时，不宜上下同时进行。拆卸的施工材料、机具、构件、配件等，应送至地面，严禁抛掷。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "高处作业",
+   "chapter": "施工安全",
+   "id": 287
+  },
+  {
+   "type": "judge",
+   "question": "预应力结构张拉、拆除时，预应力端头应采取防护措施，施工作业人员应站在轴线方向。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "预应力工程",
+   "chapter": "预应力工程",
+   "id": 288
+  },
+  {
+   "type": "single",
+   "question": "（）是资源管理目标的计划预控，通过项目管理实施规划和施工组织设计予以实现，包括资源的合理选择、供应和使用。",
+   "options": [
+    {
+     "key": "A",
+     "text": "处置"
+    },
+    {
+     "key": "B",
+     "text": "计划"
+    },
+    {
+     "key": "C",
+     "text": "优化"
+    },
+    {
+     "key": "D",
+     "text": "控制"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "资源管理",
+   "chapter": "施工组织与管理",
+   "id": 289
+  },
+  {
+   "type": "single",
+   "question": "资源管理诸环节中最为重要的一环是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "资源使用效果分析"
+    },
+    {
+     "key": "B",
+     "text": "资源使用考核"
+    },
+    {
+     "key": "C",
+     "text": "节约使用资源"
+    },
+    {
+     "key": "D",
+     "text": "资源供应"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "资源管理",
+   "chapter": "施工组织与管理",
+   "id": 290
+  },
+  {
+   "type": "multi",
+   "question": "建筑工程项目技术管理计划应包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "技术开发计划"
+    },
+    {
+     "key": "B",
+     "text": "设计技术计划"
+    },
+    {
+     "key": "C",
+     "text": "施工技术计划"
+    },
+    {
+     "key": "D",
+     "text": "工艺技术计划"
+    },
+    {
+     "key": "E",
+     "text": "运营技术计划"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "技术管理",
+   "chapter": "施工组织与管理",
+   "id": 291
+  },
+  {
+   "type": "judge",
+   "question": "决策阶段的资源投入量虽然与实施阶段相比资源消耗较少，但对整个工程项目总体投资的影响程度却是最重要的。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "资源管理",
+   "chapter": "施工组织与管理",
+   "id": 292
+  },
+  {
+   "type": "judge",
+   "question": "施工项目技术管理是项目经理部在项目施工的过程中，对各项技术活动过程和技术工作的各种要素进行科学管理的总称。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "技术管理",
+   "chapter": "施工组织与管理",
+   "id": 293
+  },
+  {
+   "type": "single",
+   "question": "项目沟通计划由（）组织编写。",
+   "options": [
+    {
+     "key": "A",
+     "text": "项目技术负责人"
+    },
+    {
+     "key": "B",
+     "text": "项目经理"
+    },
+    {
+     "key": "C",
+     "text": "项目安全总监"
+    },
+    {
+     "key": "D",
+     "text": "项目专职安全员"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "沟通管理",
+   "chapter": "施工组织与管理",
+   "id": 294
+  },
+  {
+   "type": "single",
+   "question": "工程项目管理的主要方法是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "核算"
+    },
+    {
+     "key": "B",
+     "text": "控制"
+    },
+    {
+     "key": "C",
+     "text": "计划"
+    },
+    {
+     "key": "D",
+     "text": "监管"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "项目管理",
+   "chapter": "施工组织与管理",
+   "id": 295
+  },
+  {
+   "type": "multi",
+   "question": "编制项目沟通计划的依据有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "合同文件"
+    },
+    {
+     "key": "B",
+     "text": "项目各相关组织的信息需求"
+    },
+    {
+     "key": "C",
+     "text": "项目拟完成情况"
+    },
+    {
+     "key": "D",
+     "text": "项目的组织结构"
+    },
+    {
+     "key": "E",
+     "text": "沟通方案的约束条件、假设，以及适用的沟通技术"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "沟通管理",
+   "chapter": "施工组织与管理",
+   "id": 296
+  },
+  {
+   "type": "judge",
+   "question": "项目争执只有消极性，会激化矛盾，不仅本身矛盾没解决，还可能引发更多冲突。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "沟通管理",
+   "chapter": "施工组织与管理",
+   "id": 297
+  },
+  {
+   "type": "judge",
+   "question": "信息可以用声音、文字、数字、图像等多种形式来表达。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "信息管理",
+   "chapter": "施工组织与管理",
+   "id": 298
+  },
+  {
+   "type": "single",
+   "question": "下列不属于全过程管理中设计管理中设计人员注意事项的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "团队组建"
+    },
+    {
+     "key": "B",
+     "text": "职责划分"
+    },
+    {
+     "key": "C",
+     "text": "培训与考核"
+    },
+    {
+     "key": "D",
+     "text": "管理框架"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "设计管理",
+   "chapter": "施工组织与管理",
+   "id": 299
+  },
+  {
+   "type": "single",
+   "question": "建设工程全过程管理的主要阶段包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "策划、设计、招标、施工、竣工验收"
+    },
+    {
+     "key": "B",
+     "text": "立项、设计、施工、调试、移交"
+    },
+    {
+     "key": "C",
+     "text": "决策、规划、设计、招标、施工"
+    },
+    {
+     "key": "D",
+     "text": "前期、中期、后期"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "全过程管理",
+   "chapter": "施工组织与管理",
+   "id": 300
+  },
+  {
+   "type": "multi",
+   "question": "全过程管理是确保工程建设项目（）等目标实现的关键环节，对于提高工程建设水平、推动行业健康发展具有重要意义。",
+   "options": [
+    {
+     "key": "A",
+     "text": "质量"
+    },
+    {
+     "key": "B",
+     "text": "安全"
+    },
+    {
+     "key": "C",
+     "text": "进度"
+    },
+    {
+     "key": "D",
+     "text": "成本"
+    },
+    {
+     "key": "E",
+     "text": "运维"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "全过程管理",
+   "chapter": "施工组织与管理",
+   "id": 301
+  },
+  {
+   "type": "judge",
+   "question": "项目建议书与可行性研究全过程更新更要根据大数据编制项目建议书，进行经济、技术、环境等可行性分析，并动态跟踪。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "全过程管理",
+   "chapter": "施工组织与管理",
+   "id": 302
+  },
+  {
+   "type": "judge",
+   "question": "EPC总承包全过程管理采购阶段需引进ERP系统、BIM工具等新生产力工具。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "EPC总承包",
+   "chapter": "合同与成本",
+   "id": 303
+  },
+  {
+   "type": "single",
+   "question": "属于建设工程全过程管理采购阶段的主要问题的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "采购计划制定不合理"
+    },
+    {
+     "key": "B",
+     "text": "供应商选择合适管理妥当"
+    },
+    {
+     "key": "C",
+     "text": "采购合同管理正常"
+    },
+    {
+     "key": "D",
+     "text": "物流与库存管理良好"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "采购管理",
+   "chapter": "施工组织与管理",
+   "id": 304
+  },
+  {
+   "type": "single",
+   "question": "EPC总承包施工过程管理的关键中，不是主要关注点的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "确保施工进度的按计划进行"
+    },
+    {
+     "key": "B",
+     "text": "优化施工方法的运用"
+    },
+    {
+     "key": "C",
+     "text": "施工现场的整洁与美观"
+    },
+    {
+     "key": "D",
+     "text": "对施工资源进行有效管理和调配"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "EPC总承包",
+   "chapter": "合同与成本",
+   "id": 305
+  },
+  {
+   "type": "multi",
+   "question": "建立涵盖（）等多方面的综合评价体系，全面评估供应商的综合实力。",
+   "options": [
+    {
+     "key": "A",
+     "text": "价格"
+    },
+    {
+     "key": "B",
+     "text": "质量"
+    },
+    {
+     "key": "C",
+     "text": "服务"
+    },
+    {
+     "key": "D",
+     "text": "信誉"
+    },
+    {
+     "key": "E",
+     "text": "人际关系"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "采购管理",
+   "chapter": "施工组织与管理",
+   "id": 306
+  },
+  {
+   "type": "judge",
+   "question": "理想化假设是在制定采购计划时，可能基于过于理想化的假设，如市场供应充足、价格稳定等，而实际情况可能并非如此。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "采购管理",
+   "chapter": "施工组织与管理",
+   "id": 307
+  },
+  {
+   "type": "judge",
+   "question": "在制定采购计划时，应充分考虑潜在的风险因素，如供应商可靠性、交货期延误等。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "采购管理",
+   "chapter": "施工组织与管理",
+   "id": 308
+  },
+  {
+   "type": "single",
+   "question": "物业及客服部门从项目（）之处就制定项目维护和服务计划，并全过程参与监督管理，确保项目交付后长期稳定运行。",
+   "options": [
+    {
+     "key": "A",
+     "text": "验收"
+    },
+    {
+     "key": "B",
+     "text": "交付"
+    },
+    {
+     "key": "C",
+     "text": "立项"
+    },
+    {
+     "key": "D",
+     "text": "施工"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "运维管理",
+   "chapter": "施工组织与管理",
+   "id": 309
+  },
+  {
+   "type": "single",
+   "question": "电子档案管理是利用（）信息化手段，对工程资料进行电子化管理，提高管理效率。",
+   "options": [
+    {
+     "key": "A",
+     "text": "现代化"
+    },
+    {
+     "key": "B",
+     "text": "信息化"
+    },
+    {
+     "key": "C",
+     "text": "电子化"
+    },
+    {
+     "key": "D",
+     "text": "数字化"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "档案管理",
+   "chapter": "施工组织与管理",
+   "id": 310
+  },
+  {
+   "type": "multi",
+   "question": "EPC总承包施工过程管理要点包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "不按照施工组织设计进行施工"
+    },
+    {
+     "key": "B",
+     "text": "合理安排施工进度，确保按期完成"
+    },
+    {
+     "key": "C",
+     "text": "加强与各方的沟通协作，解决施工中出现的问题"
+    },
+    {
+     "key": "D",
+     "text": "忽视施工成本的控制，追求工程质量"
+    },
+    {
+     "key": "E",
+     "text": "忽视安全隐患，追求施工进度"
+    }
+   ],
+   "answer": [
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "EPC总承包",
+   "chapter": "合同与成本",
+   "id": 311
+  },
+  {
+   "type": "judge",
+   "question": "某大型EPC总承包建设工程项目，涵盖办公楼、商业设施和住宅楼群，总价值超过数亿元人民币。由于项目规模庞大，涉及的承包商、供应商、设备和物料众多，项目管理团队决定利用云计算、物联网和人工智能技术进行施工过程的全过程管理，可以有效提升成本管理、质量管理、安全管理和合约管理的效率和效果。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "EPC总承包",
+   "chapter": "合同与成本",
+   "id": 312
+  },
+  {
+   "type": "judge",
+   "question": "某城市正在建设一座智能化的交通枢纽，该EPC总承包项目涉及复杂的机电系统、监控系统、能源管理等多个子系统。为确保项目按时、高质量完成，并实现平稳移交，项目管理团队决定采用云平台、大数据和物联网技术对整个项目交付过程进行全面管理，能有效提升项目交付与移交过程的效率和质量。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "EPC总承包",
+   "chapter": "合同与成本",
+   "id": 313
+  },
+  {
+   "type": "single",
+   "question": "运维全过程管理体系建立，首先要明确运维管理（），确保设施设备的正常运行，提高运维效率，降低运维成本。",
+   "options": [
+    {
+     "key": "A",
+     "text": "要求"
+    },
+    {
+     "key": "B",
+     "text": "目标"
+    },
+    {
+     "key": "C",
+     "text": "计划"
+    },
+    {
+     "key": "D",
+     "text": "职责"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "运维管理",
+   "chapter": "施工组织与管理",
+   "id": 314
+  },
+  {
+   "type": "single",
+   "question": "在建筑运维阶段，结合城市更新的背景下，以下哪种新质生产力工具的应用能够有效地提高运维效率和促进城市可持续发展（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "传统的纸质文件管理系统"
+    },
+    {
+     "key": "B",
+     "text": "基于云计算的建筑信息模型（BIM）平台"
+    },
+    {
+     "key": "C",
+     "text": "独立的设备维护软件"
+    },
+    {
+     "key": "D",
+     "text": "仅依赖人工巡检和记录的方式"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "运维管理",
+   "chapter": "施工组织与管理",
+   "id": 315
+  },
+  {
+   "type": "multi",
+   "question": "运维管理制度包括（）等。",
+   "options": [
+    {
+     "key": "A",
+     "text": "设备巡检制度"
+    },
+    {
+     "key": "B",
+     "text": "维修管理制度"
+    },
+    {
+     "key": "C",
+     "text": "设备采购制度"
+    },
+    {
+     "key": "D",
+     "text": "维护保养制度"
+    },
+    {
+     "key": "E",
+     "text": "资金使用管理制度"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "运维管理",
+   "chapter": "施工组织与管理",
+   "id": 316
+  },
+  {
+   "type": "judge",
+   "question": "施工企业要建立应急预案体系，针对发生的突发事件，制定应急预案并进行演练。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "应急预案",
+   "chapter": "施工安全",
+   "id": 317
+  },
+  {
+   "type": "judge",
+   "question": "在建设工程全过程管理运维阶段中，BIM、大数据可以被应用于项目策划、风险管理、成本控制、进度优化等多个方面，结合法律法规标准管理应用，以提高工程管理的综合效果，应用大数据分析与决策支持系统的案例表明，这些技术能够显著提升工程项目的质量、成本和工期等方面的绩效。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "运维管理",
+   "chapter": "施工组织与管理",
+   "id": 318
+  },
+  {
+   "type": "single",
+   "question": "高位塔式起重机的最低位置的部件与低位塔式起重机中处于最高位置部件之间的垂直距离不得小于（）m。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1"
+    },
+    {
+     "key": "B",
+     "text": "1.8"
+    },
+    {
+     "key": "C",
+     "text": "2"
+    },
+    {
+     "key": "D",
+     "text": "2.5"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "起重机械",
+   "chapter": "施工安全",
+   "id": 319
+  },
+  {
+   "type": "single",
+   "question": "建筑机械是为（）服务的，建筑机械伤害事故是在建筑施工过程中产生的。",
+   "options": [
+    {
+     "key": "A",
+     "text": "企业"
+    },
+    {
+     "key": "B",
+     "text": "工程设计"
+    },
+    {
+     "key": "C",
+     "text": "建筑施工"
+    },
+    {
+     "key": "D",
+     "text": "工程管理"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "建筑机械",
+   "chapter": "综合",
+   "id": 320
+  },
+  {
+   "type": "multi",
+   "question": "附着杆与附着物之间采用焊接连接时，必须提供下列（）资料。",
+   "options": [
+    {
+     "key": "A",
+     "text": "焊工资格证书"
+    },
+    {
+     "key": "B",
+     "text": "焊接工艺要求和焊缝尺寸要求"
+    },
+    {
+     "key": "C",
+     "text": "焊缝外观质量及无损探伤检验结果"
+    },
+    {
+     "key": "D",
+     "text": "焊条进货库单"
+    },
+    {
+     "key": "E",
+     "text": "产品合格证"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "建筑机械",
+   "chapter": "综合",
+   "id": 321
+  },
+  {
+   "type": "judge",
+   "question": "附着装置设计时，应对支承处的建筑主体结构进行验算。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "建筑机械",
+   "chapter": "综合",
+   "id": 322
+  },
+  {
+   "type": "judge",
+   "question": "附着装置与塔身节和附着物的安装连接必须安全可靠，各连接件如螺栓、销轴等必须齐全，不应缺件或松动，与附着杆相连接的附着物不应有裂纹或损坏。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "建筑机械",
+   "chapter": "综合",
+   "id": 323
+  },
+  {
+   "type": "single",
+   "question": "钢管脚手架钢管的壁厚是（）mm。",
+   "options": [
+    {
+     "key": "A",
+     "text": "2.8"
+    },
+    {
+     "key": "B",
+     "text": "3.2"
+    },
+    {
+     "key": "C",
+     "text": "3.6"
+    },
+    {
+     "key": "D",
+     "text": "4.2"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "脚手架",
+   "chapter": "脚手架工程",
+   "id": 324
+  },
+  {
+   "type": "single",
+   "question": "《建筑施工扣件式钢管脚手架安全技术规范》中规定的最大立杆间距（）和最大步距1.8m。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1.1m"
+    },
+    {
+     "key": "B",
+     "text": "1.2m"
+    },
+    {
+     "key": "C",
+     "text": "1.3m"
+    },
+    {
+     "key": "D",
+     "text": "1.4m"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "脚手架",
+   "chapter": "脚手架工程",
+   "id": 325
+  },
+  {
+   "type": "multi",
+   "question": "下列脚手架搭设施工单位应在施工前编制专项方案的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "搭设高度3m以上"
+    },
+    {
+     "key": "B",
+     "text": "搭设跨度10m以上"
+    },
+    {
+     "key": "C",
+     "text": "施工总荷载10kN/m2及以上"
+    },
+    {
+     "key": "D",
+     "text": "集中线荷载15kN/m2及以上"
+    },
+    {
+     "key": "E",
+     "text": "高度大于支撑水平投影宽度且相对独立无联系构件的混凝土模板支撑工程"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "脚手架",
+   "chapter": "脚手架工程",
+   "id": 326
+  },
+  {
+   "type": "judge",
+   "question": "作业层端部脚手板探头长度应取100mm，其板的两端均应固定于支承构件上。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "脚手架",
+   "chapter": "脚手架工程",
+   "id": 327
+  },
+  {
+   "type": "judge",
+   "question": "按照附着式脚手架操作相关规定，脚手架在进行升降时一律不准站人。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "脚手架",
+   "chapter": "脚手架工程",
+   "id": 328
+  },
+  {
+   "type": "single",
+   "question": "标准节是塔身的主体部分，节间要用（）连接。",
+   "options": [
+    {
+     "key": "A",
+     "text": "普通螺栓"
+    },
+    {
+     "key": "B",
+     "text": "高强螺栓"
+    },
+    {
+     "key": "C",
+     "text": "焊接"
+    },
+    {
+     "key": "D",
+     "text": "销接"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "塔式起重机",
+   "chapter": "施工安全",
+   "id": 329
+  },
+  {
+   "type": "single",
+   "question": "建筑工程施工安全管理是一个（）、综合性的管理，其管理的内容涉及建筑生产的各个环节。",
+   "options": [
+    {
+     "key": "A",
+     "text": "管理性"
+    },
+    {
+     "key": "B",
+     "text": "系统性"
+    },
+    {
+     "key": "C",
+     "text": "研究性"
+    },
+    {
+     "key": "D",
+     "text": "严肃性"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "施工安全",
+   "chapter": "施工安全",
+   "id": 330
+  },
+  {
+   "type": "multi",
+   "question": "塔吊事故的原因包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "人为因素"
+    },
+    {
+     "key": "B",
+     "text": "设备因素"
+    },
+    {
+     "key": "C",
+     "text": "环境因素"
+    },
+    {
+     "key": "D",
+     "text": "物的因素"
+    },
+    {
+     "key": "E",
+     "text": "技术因素"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "塔吊安全",
+   "chapter": "施工安全",
+   "id": 331
+  },
+  {
+   "type": "judge",
+   "question": "参与塔式起重机的装拆人员必须经过专业培训考核，持有效的操作证上岗。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "塔式起重机",
+   "chapter": "施工安全",
+   "id": 332
+  },
+  {
+   "type": "judge",
+   "question": "外墙装饰和脚手架升降作业等危险性较大工程和工艺，按规定必须进行旁站等强制性监理。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "脚手架",
+   "chapter": "脚手架工程",
+   "id": 333
+  },
+  {
+   "type": "single",
+   "question": "高支模应控制好立杆间距和水平杆的步距；高支模架的步距h以（）m为宜，不宜超过（）m。",
+   "options": [
+    {
+     "key": "A",
+     "text": "0.5-1.5，1.5"
+    },
+    {
+     "key": "B",
+     "text": "0.6-1.6，1.6"
+    },
+    {
+     "key": "C",
+     "text": "0.9-1.8，1.8"
+    },
+    {
+     "key": "D",
+     "text": "1.0-2.0，2.0"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "模板工程施工",
+   "chapter": "模板工程",
+   "id": 334
+  },
+  {
+   "type": "single",
+   "question": "搭设高支模时，班组施工之前，应由施工管理人员对所有施工人员进行（），包括搭设要求及间距、扣件紧固程度及连墙措施等。",
+   "options": [
+    {
+     "key": "A",
+     "text": "管理"
+    },
+    {
+     "key": "B",
+     "text": "交底"
+    },
+    {
+     "key": "C",
+     "text": "谈话"
+    },
+    {
+     "key": "D",
+     "text": "沟通"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "模板工程施工",
+   "chapter": "模板工程",
+   "id": 335
+  },
+  {
+   "type": "multi",
+   "question": "高支模架的搭设（），要加强作业队伍的培训教育，认真学习有关技术规范，组织一支训练有素的专业队伍进行施工，以确保模架的搭设质量。",
+   "options": [
+    {
+     "key": "A",
+     "text": "高度高"
+    },
+    {
+     "key": "B",
+     "text": "空间小"
+    },
+    {
+     "key": "C",
+     "text": "专业性强"
+    },
+    {
+     "key": "D",
+     "text": "技术要求高"
+    },
+    {
+     "key": "E",
+     "text": "难度小"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "模板工程施工",
+   "chapter": "模板工程",
+   "id": 336
+  },
+  {
+   "type": "judge",
+   "question": "塔式起重机的基础周围应有排水设施，以确保基础的稳定性和安全性。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "塔式起重机",
+   "chapter": "施工安全",
+   "id": 337
+  },
+  {
+   "type": "judge",
+   "question": "对于重要的高支模架，当立杆高度≥24m，或横向高宽比≥6时，需要设置增强支撑架整体性的措施，如扩大底部架体宽度、增加水平剪刀撑等。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "模板工程施工",
+   "chapter": "模板工程",
+   "id": 338
+  },
+  {
+   "type": "single",
+   "question": "反向施工法（逆作法）通过\"上下同步、先撑后挖\"的模式，可有效节省约（）的整体建设工期。",
+   "options": [
+    {
+     "key": "A",
+     "text": "10%"
+    },
+    {
+     "key": "B",
+     "text": "20%"
+    },
+    {
+     "key": "C",
+     "text": "30%"
+    },
+    {
+     "key": "D",
+     "text": "40%"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "逆作法",
+   "chapter": "地基与基坑工程",
+   "id": 339
+  },
+  {
+   "type": "single",
+   "question": "模板支撑架顶部可调支托的螺杆伸出钢管顶部不得大于（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "100mm"
+    },
+    {
+     "key": "B",
+     "text": "150mm"
+    },
+    {
+     "key": "C",
+     "text": "200mm"
+    },
+    {
+     "key": "D",
+     "text": "300mm"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "模板工程施工",
+   "chapter": "模板工程",
+   "id": 340
+  },
+  {
+   "type": "judge",
+   "question": "大于300mm的预留洞口周边应设置双层双向加筋补强处理。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "模板工程施工",
+   "chapter": "模板工程",
+   "id": 341
+  },
+  {
+   "type": "judge",
+   "question": "主体结构质量管控要求中，&quot;安全是底线，耐久是保障，适用是目的，合规是前提&quot;。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "主体结构工程",
+   "chapter": "建筑结构与抗震",
+   "id": 342
+  },
+  {
+   "type": "multi",
+   "question": "主体结构工程常见质量问题分类包括（&nbsp;）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "钢筋混凝土结构"
+    },
+    {
+     "key": "B",
+     "text": "钢结构工程"
+    },
+    {
+     "key": "C",
+     "text": "砌体结构工程"
+    },
+    {
+     "key": "D",
+     "text": "装饰装修工程"
+    },
+    {
+     "key": "E",
+     "text": "地基基础工程"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "主体结构工程",
+   "chapter": "建筑结构与抗震",
+   "id": 343
+  },
+  {
+   "type": "single",
+   "question": "不承重隔墙砌至距梁/板底应预留20～30mm伸缩空隙，砌体完工后应静置（）以上再进行顶缝封堵。",
+   "options": [
+    {
+     "key": "A",
+     "text": "7天"
+    },
+    {
+     "key": "B",
+     "text": "14天"
+    },
+    {
+     "key": "C",
+     "text": "21天"
+    },
+    {
+     "key": "D",
+     "text": "28天"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "砌体工程",
+   "chapter": "砌体与装饰装修",
+   "id": 344
+  },
+  {
+   "type": "single",
+   "question": "构造柱马牙槎施工时，规范做法应优先选用（）做构造柱模板。",
+   "options": [
+    {
+     "key": "A",
+     "text": "木模板"
+    },
+    {
+     "key": "B",
+     "text": "配套U型专用砌块"
+    },
+    {
+     "key": "C",
+     "text": "钢模板"
+    },
+    {
+     "key": "D",
+     "text": "碎砖堵缝"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "砌体工程",
+   "chapter": "砌体与装饰装修",
+   "id": 345
+  },
+  {
+   "type": "multi",
+   "question": "不承重隔墙顶部处理的施工注意事项包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "严控静置天数"
+    },
+    {
+     "key": "B",
+     "text": "填充需饱满连续"
+    },
+    {
+     "key": "C",
+     "text": "做好双重防水"
+    },
+    {
+     "key": "D",
+     "text": "清理缝内浮灰"
+    },
+    {
+     "key": "E",
+     "text": "即筑赶工期当天封顶"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "砌体工程",
+   "chapter": "砌体与装饰装修",
+   "id": 346
+  },
+  {
+   "type": "judge",
+   "question": "不承重隔墙顶部斜砌砖应一次性紧跟着主体砌筑完成，无需静置沉降即可收口。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "砌体工程",
+   "chapter": "砌体与装饰装修",
+   "id": 347
+  },
+  {
+   "type": "judge",
+   "question": "砌体结构工程预防措施中，应正确设置拉结筋，确保墙体与主体连接可靠。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "砌体工程",
+   "chapter": "砌体与装饰装修",
+   "id": 348
+  },
+  {
+   "type": "single",
+   "question": "进口、混批、厚板（≥40mm）及一级安全等级钢材，进场时必须（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "直接投入使用"
+    },
+    {
+     "key": "B",
+     "text": "仅核查质量证明书"
+    },
+    {
+     "key": "C",
+     "text": "抽样复验"
+    },
+    {
+     "key": "D",
+     "text": "仅做外观检查"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "钢结构",
+   "chapter": "钢结构工程",
+   "id": 349
+  },
+  {
+   "type": "single",
+   "question": "钢柱垂直度偏差控制标准为（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "≤h/500"
+    },
+    {
+     "key": "B",
+     "text": "≤h/1000"
+    },
+    {
+     "key": "C",
+     "text": "≤h/1500"
+    },
+    {
+     "key": "D",
+     "text": "≤h/2000"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "钢结构",
+   "chapter": "钢结构工程",
+   "id": 350
+  },
+  {
+   "type": "multi",
+   "question": "钢结构焊缝常见缺陷包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "气孔"
+    },
+    {
+     "key": "B",
+     "text": "夹渣"
+    },
+    {
+     "key": "C",
+     "text": "咬边"
+    },
+    {
+     "key": "D",
+     "text": "未焊透"
+    },
+    {
+     "key": "E",
+     "text": "锈蚀"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C"
+   ],
+   "analysis": "",
+   "topic": "钢结构",
+   "chapter": "钢结构工程",
+   "id": 351
+  },
+  {
+   "type": "judge",
+   "question": "钢结构楼层标高控制应在首层设置永久引测点，各层标高闭合差应控制在±3mm以内。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "钢结构",
+   "chapter": "钢结构工程",
+   "id": 352
+  },
+  {
+   "type": "judge",
+   "question": "钢构件表面锈蚀麻点深度不得大于钢材厚度负偏差的1/2。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "钢结构",
+   "chapter": "钢结构工程",
+   "id": 353
+  },
+  {
+   "type": "single",
+   "question": "屋面防水施工后，（）小时内禁止踩踏或堆放重物。",
+   "options": [
+    {
+     "key": "A",
+     "text": "12"
+    },
+    {
+     "key": "B",
+     "text": "24"
+    },
+    {
+     "key": "C",
+     "text": "48"
+    },
+    {
+     "key": "D",
+     "text": "72"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 354
+  },
+  {
+   "type": "single",
+   "question": "防水卷材施工中，长边搭接宽度不应小于（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "50mm"
+    },
+    {
+     "key": "B",
+     "text": "60mm"
+    },
+    {
+     "key": "C",
+     "text": "80mm"
+    },
+    {
+     "key": "D",
+     "text": "100mm"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 355
+  },
+  {
+   "type": "multi",
+   "question": "质量检验与验收中实行的\"三检制度\"包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "自检"
+    },
+    {
+     "key": "B",
+     "text": "互检"
+    },
+    {
+     "key": "C",
+     "text": "专检"
+    },
+    {
+     "key": "D",
+     "text": "抽检"
+    },
+    {
+     "key": "E",
+     "text": "免检"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C"
+   ],
+   "analysis": "",
+   "topic": "质量管理",
+   "chapter": "质量与验收",
+   "id": 356
+  },
+  {
+   "type": "judge",
+   "question": "立面收头应采用金属压条固定，并做密封处理，最大钉距不应大于900mm。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 357
+  },
+  {
+   "type": "judge",
+   "question": "防水涂料施工时，涂膜应分层分遍涂布，待先涂层干燥成膜后，方可涂布后一遍涂料。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "防水工程",
+   "chapter": "防水工程",
+   "id": 358
+  },
+  {
+   "type": "single",
+   "question": "拆除施工现场应设置硬质围挡，高度不应低于（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "1.5m"
+    },
+    {
+     "key": "B",
+     "text": "2.0m"
+    },
+    {
+     "key": "C",
+     "text": "2.5m"
+    },
+    {
+     "key": "D",
+     "text": "3.0m"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "拆除工程",
+   "chapter": "施工安全",
+   "id": 359
+  },
+  {
+   "type": "single",
+   "question": "拆除工程的正确顺序应遵循（）的原则。",
+   "options": [
+    {
+     "key": "A",
+     "text": "自上而下、先承重后非承重"
+    },
+    {
+     "key": "B",
+     "text": "自上而下、逐层分段，先非承重后承重"
+    },
+    {
+     "key": "C",
+     "text": "先拆承重结构后拆非承重结构"
+    },
+    {
+     "key": "D",
+     "text": "从中间向两端拆除"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "拆除工程",
+   "chapter": "施工安全",
+   "id": 360
+  },
+  {
+   "type": "multi",
+   "question": "拆除工程施工中，相关各方的质量与安全职责包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "建设单位：提供真实完整的工程资料，依法合规发包工程"
+    },
+    {
+     "key": "B",
+     "text": "施工单位：对安全生产负总责，编制专项方案并严格执行"
+    },
+    {
+     "key": "C",
+     "text": "监理单位：审查安全施工方案，实施关键工序旁站监理"
+    },
+    {
+     "key": "D",
+     "text": "项目经理：作为项目质量与安全第一责任人"
+    },
+    {
+     "key": "E",
+     "text": "设计单位：无需参与拆除工程管理"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "拆除工程",
+   "chapter": "施工安全",
+   "id": 361
+  },
+  {
+   "type": "judge",
+   "question": "当机械拆除需人工拆除配合时，人员与机械可以在同一作业面上同时作业。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "拆除工程",
+   "chapter": "施工安全",
+   "id": 362
+  },
+  {
+   "type": "judge",
+   "question": "拆除承重构件前，必须先行设置临时支撑，并经专业设计计算验证，防止结构失稳。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "拆除工程",
+   "chapter": "施工安全",
+   "id": 363
+  },
+  {
+   "type": "single",
+   "question": "EPS/XPS等保温材料燃烧速度达（）米/秒。",
+   "options": [
+    {
+     "key": "A",
+     "text": "0.5~0.8"
+    },
+    {
+     "key": "B",
+     "text": "0.8~1.5"
+    },
+    {
+     "key": "C",
+     "text": "1.5~2"
+    },
+    {
+     "key": "D",
+     "text": "2~2.5"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "保温材料",
+   "chapter": "砌体与装饰装修",
+   "id": 364
+  },
+  {
+   "type": "single",
+   "question": "灭火的决定性窗口在（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "初起阶段"
+    },
+    {
+     "key": "B",
+     "text": "猛烈阶段"
+    },
+    {
+     "key": "C",
+     "text": "衰退阶段"
+    },
+    {
+     "key": "D",
+     "text": "成长阶段"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "消防知识",
+   "chapter": "施工安全",
+   "id": 365
+  },
+  {
+   "type": "multi",
+   "question": "火灾发生的四个阶段分别是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "初起阶段"
+    },
+    {
+     "key": "B",
+     "text": "猛烈阶段"
+    },
+    {
+     "key": "C",
+     "text": "衰退阶段"
+    },
+    {
+     "key": "D",
+     "text": "成长阶段"
+    },
+    {
+     "key": "E",
+     "text": "隐蔽阶段"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "消防知识",
+   "chapter": "施工安全",
+   "id": 366
+  },
+  {
+   "type": "judge",
+   "question": "建筑施工现场助燃物一般情况下无法隔绝，可燃物和点火源又是不可避免的，控制建筑施工火灾关键是控制可燃物和点火源，防止两者的结合。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "消防知识",
+   "chapter": "施工安全",
+   "id": 367
+  },
+  {
+   "type": "judge",
+   "question": "聚氨酯泡沫填缝剂属于难燃材料，静电火花无法引燃。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "保温材料",
+   "chapter": "砌体与装饰装修",
+   "id": 368
+  },
+  {
+   "type": "single",
+   "question": "腻子施工机器人中一台预拌站可供料三台机器人，减少人力与材料浪费，降低施工成本可达（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "10%"
+    },
+    {
+     "key": "B",
+     "text": "20%"
+    },
+    {
+     "key": "C",
+     "text": "30%"
+    },
+    {
+     "key": "D",
+     "text": "50%"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 369
+  },
+  {
+   "type": "single",
+   "question": "现阶段AI+机器人发展趋势，机器狗不能做到的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "自动巡检"
+    },
+    {
+     "key": "B",
+     "text": "翻身"
+    },
+    {
+     "key": "C",
+     "text": "作揖"
+    },
+    {
+     "key": "D",
+     "text": "代替人做出处罚意见"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 370
+  },
+  {
+   "type": "multi",
+   "question": "地面平整机器人特点有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "双自由度自适应系统"
+    },
+    {
+     "key": "B",
+     "text": "高精度激光识别测量"
+    },
+    {
+     "key": "C",
+     "text": "实时控制技术"
+    },
+    {
+     "key": "D",
+     "text": "集成智能运动控制算法"
+    },
+    {
+     "key": "E",
+     "text": "三自由度自适应系统"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 371
+  },
+  {
+   "type": "judge",
+   "question": "传统智慧工地，硬件堆叠追求科技感、形象工程主要聚焦在数据可视化，没有产生太大价值，手工填报工作量仍然比较大，实际落地受阻。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 372
+  },
+  {
+   "type": "judge",
+   "question": "相较于传统机器人，AI背景下的具身机器人具有自主行动能力，通过学习，可实现无人干预完成复杂任务。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 373
+  },
+  {
+   "type": "single",
+   "question": "BIM施工模拟部分的内容主要针对施工组织设计，包含施工组织模拟和（）模拟两大模块的BIM应用和规范要求。",
+   "options": [
+    {
+     "key": "A",
+     "text": "施工流程"
+    },
+    {
+     "key": "B",
+     "text": "施工方案"
+    },
+    {
+     "key": "C",
+     "text": "施工工艺"
+    },
+    {
+     "key": "D",
+     "text": "施工要点"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "BIM技术",
+   "chapter": "智能建造与BIM",
+   "id": 374
+  },
+  {
+   "type": "single",
+   "question": "在《建筑信息模型施工应用标准》中，下列选项中，（）不属于预制加工部分的内容。",
+   "options": [
+    {
+     "key": "A",
+     "text": "混凝土预制构件生产"
+    },
+    {
+     "key": "B",
+     "text": "现场支模模板生产"
+    },
+    {
+     "key": "C",
+     "text": "钢结构构件加工"
+    },
+    {
+     "key": "D",
+     "text": "机电产品加工"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "BIM技术",
+   "chapter": "智能建造与BIM",
+   "id": 375
+  },
+  {
+   "type": "multi",
+   "question": "BIM在机电深化设计是建立机电专业BIM模型，实现（）等应用。",
+   "options": [
+    {
+     "key": "A",
+     "text": "现场安装"
+    },
+    {
+     "key": "B",
+     "text": "预构件加工"
+    },
+    {
+     "key": "C",
+     "text": "数字化加工"
+    },
+    {
+     "key": "D",
+     "text": "管线综合"
+    },
+    {
+     "key": "E",
+     "text": "碰撞检查"
+    }
+   ],
+   "answer": [
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "BIM技术",
+   "chapter": "智能建造与BIM",
+   "id": 376
+  },
+  {
+   "type": "judge",
+   "question": "BIM可视化展示是设计成果由传统二维图纸转变为三维模型，多终端展示。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "BIM技术",
+   "chapter": "智能建造与BIM",
+   "id": 377
+  },
+  {
+   "type": "judge",
+   "question": "施工工序和施工工艺模拟不能验证施工方案的合理性。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "BIM技术",
+   "chapter": "智能建造与BIM",
+   "id": 378
+  },
+  {
+   "type": "single",
+   "question": "利用BIM模型可以轻松快捷地检查在三维空间环境下各专业的（）情况。",
+   "options": [
+    {
+     "key": "A",
+     "text": "碰撞"
+    },
+    {
+     "key": "B",
+     "text": "配合"
+    },
+    {
+     "key": "C",
+     "text": "模拟"
+    },
+    {
+     "key": "D",
+     "text": "平面"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "BIM技术",
+   "chapter": "智能建造与BIM",
+   "id": 379
+  },
+  {
+   "type": "single",
+   "question": "基于BIM技术的分包工程量核对，依据不同班组结算按（）进行划分不同区域分别<br/>出量。",
+   "options": [
+    {
+     "key": "A",
+     "text": "检验批"
+    },
+    {
+     "key": "B",
+     "text": "施工段"
+    },
+    {
+     "key": "C",
+     "text": "分部工程"
+    },
+    {
+     "key": "D",
+     "text": "分项工程"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "BIM技术",
+   "chapter": "智能建造与BIM",
+   "id": 380
+  },
+  {
+   "type": "multi",
+   "question": "下列选项中，属于BIM在施工方的应用的有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "模型查错及优化"
+    },
+    {
+     "key": "B",
+     "text": "地下室净空检查"
+    },
+    {
+     "key": "C",
+     "text": "挖填土方量计算"
+    },
+    {
+     "key": "D",
+     "text": "施工进度模拟"
+    },
+    {
+     "key": "E",
+     "text": "施工组织方案审核"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "analysis": "",
+   "topic": "BIM技术",
+   "chapter": "智能建造与BIM",
+   "id": 381
+  },
+  {
+   "type": "judge",
+   "question": "BIM在专业协调中，实现立体化，信息化，多专业一起共同沟通问题，各专业之间可实现可视化沟通。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "BIM技术",
+   "chapter": "智能建造与BIM",
+   "id": 382
+  },
+  {
+   "type": "judge",
+   "question": "运用BIM技术进行施工组织模拟不能进行现场施工人流和车流的模拟分析。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "BIM技术",
+   "chapter": "智能建造与BIM",
+   "id": 383
+  },
+  {
+   "type": "single",
+   "question": "下列不属于于工地现场管理存在的问题的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "工人流动性大"
+    },
+    {
+     "key": "B",
+     "text": "素质较高"
+    },
+    {
+     "key": "C",
+     "text": "安全意识不足"
+    },
+    {
+     "key": "D",
+     "text": "劳务纠纷"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "工地现场管理",
+   "chapter": "施工组织与管理",
+   "id": 384
+  },
+  {
+   "type": "single",
+   "question": "实名制闸机中，（）闸机的通行效率最低。",
+   "options": [
+    {
+     "key": "A",
+     "text": "全高闸"
+    },
+    {
+     "key": "B",
+     "text": "三辊闸"
+    },
+    {
+     "key": "C",
+     "text": "翼闸"
+    },
+    {
+     "key": "D",
+     "text": "摆闸"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "实名制闸机",
+   "chapter": "施工组织与管理",
+   "id": 385
+  },
+  {
+   "type": "multi",
+   "question": "工地实名制管理门卫道闸系统有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "全高闸"
+    },
+    {
+     "key": "B",
+     "text": "翼闸"
+    },
+    {
+     "key": "C",
+     "text": "摆闸"
+    },
+    {
+     "key": "D",
+     "text": "三辊闸"
+    },
+    {
+     "key": "E",
+     "text": "旋转闸"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "门卫道闸",
+   "chapter": "施工组织与管理",
+   "id": 386
+  },
+  {
+   "type": "judge",
+   "question": "实名制管理系统后台自动统计在场工人的人数、工种、班组等信息，为项目劳动力调配提供依据，同时大大减轻项目劳务管理的负担。云端构建劳务信息库。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "实名制管理",
+   "chapter": "施工组织与管理",
+   "id": 387
+  },
+  {
+   "type": "judge",
+   "question": "工地wifi教育的好处是上网快、省钱。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "工地wifi教育",
+   "chapter": "施工组织与管理",
+   "id": 388
+  },
+  {
+   "type": "single",
+   "question": "企业施工资料云系统管理平台负责系统资料的具体编制人员是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "超级管理员"
+    },
+    {
+     "key": "B",
+     "text": "总公司管理员"
+    },
+    {
+     "key": "C",
+     "text": "分公司管理员"
+    },
+    {
+     "key": "D",
+     "text": "项目实施员"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "资料云系统",
+   "chapter": "智能建造与BIM",
+   "id": 389
+  },
+  {
+   "type": "single",
+   "question": "下列不属于企业施工资料云系统管理平台功能的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "项目信息，静态汇总"
+    },
+    {
+     "key": "B",
+     "text": "项目信息，动态汇总"
+    },
+    {
+     "key": "C",
+     "text": "同步上传，资料备份"
+    },
+    {
+     "key": "D",
+     "text": "实时审阅，编辑打印"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "资料云系统",
+   "chapter": "智能建造与BIM",
+   "id": 390
+  },
+  {
+   "type": "multi",
+   "question": "施工资料管理难点有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "施工资料表格内容填写不规范"
+    },
+    {
+     "key": "B",
+     "text": "资料人员没经验或人员变更频繁"
+    },
+    {
+     "key": "C",
+     "text": "施工资料编制与实际进度不符"
+    },
+    {
+     "key": "D",
+     "text": "施工资料杂乱地无序"
+    },
+    {
+     "key": "E",
+     "text": "对施工资料管理不重视"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C"
+   ],
+   "analysis": "",
+   "topic": "资料管理",
+   "chapter": "施工组织与管理",
+   "id": 391
+  },
+  {
+   "type": "judge",
+   "question": "品茗施工云资料软件信息化管理系统逐级汇总，一点就通。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "资料云系统",
+   "chapter": "智能建造与BIM",
+   "id": 392
+  },
+  {
+   "type": "judge",
+   "question": "施工资料管理原则是编制规范、内容准确、一人多签、同步汇总。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "资料管理",
+   "chapter": "施工组织与管理",
+   "id": 393
+  },
+  {
+   "type": "single",
+   "question": "以下关于智慧建筑“管”“运”“服”的表述，正确的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "“管”仅指综合安防"
+    },
+    {
+     "key": "B",
+     "text": "“运”只涉及招商管理"
+    },
+    {
+     "key": "C",
+     "text": "“服”包含员工服务与生活服务等多方面"
+    },
+    {
+     "key": "D",
+     "text": "智慧建筑“管”“运”“服”与园区IOC无关"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "智慧建筑",
+   "chapter": "智能建造与BIM",
+   "id": 394
+  },
+  {
+   "type": "judge",
+   "question": "三维模型可以不留死角的暴露设计不确定点，更有利于对设计方案的可行性进行论证，以找到最优方案。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "三维模型",
+   "chapter": "智能建造与BIM",
+   "id": 395
+  },
+  {
+   "type": "multi",
+   "question": "大体积混凝土测温是通过使用测温仪器及合理布置对（）混凝土构件进行测温监控。",
+   "options": [
+    {
+     "key": "A",
+     "text": "较大体积"
+    },
+    {
+     "key": "B",
+     "text": "较厚"
+    },
+    {
+     "key": "C",
+     "text": "较大面积"
+    },
+    {
+     "key": "D",
+     "text": "较长长度"
+    },
+    {
+     "key": "E",
+     "text": "地下"
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "混凝土工程施工",
+   "chapter": "混凝土工程",
+   "id": 396
+  },
+  {
+   "type": "judge",
+   "question": "SYTD免拆复合底模楼承板采用平面钢筋桁架。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "楼承板",
+   "chapter": "钢结构工程",
+   "id": 397
+  },
+  {
+   "type": "single",
+   "question": "智能建造运管平台以BIM模型数据为基础，构建“一平台、（）推进”的应用模式，以打通信息孤岛、提高参建各方的协同性和精准性、保障各方利益并规范各方行为目标，通过数字化、在线化、智能化的管理方式，促进了工程质量和效率。",
+   "options": [
+    {
+     "key": "A",
+     "text": "三"
+    },
+    {
+     "key": "B",
+     "text": "四"
+    },
+    {
+     "key": "C",
+     "text": "五"
+    },
+    {
+     "key": "D",
+     "text": "六"
+    }
+   ],
+   "answer": [
+    "D"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 398
+  },
+  {
+   "type": "judge",
+   "question": "建筑工业化强调标准化设计、工厂化预制、装配化施工取代传统人工现场作业模式，在提升建造效率的同时也让工程质量变得可控。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "建筑工业化",
+   "chapter": "装配式建筑",
+   "id": 399
+  },
+  {
+   "type": "single",
+   "question": "建筑业发展受阻，亟需打造新质生产力，以数据驱动的（）是建筑业高质量发展的重要途径。",
+   "options": [
+    {
+     "key": "A",
+     "text": "装配式建筑"
+    },
+    {
+     "key": "B",
+     "text": "数字建造"
+    },
+    {
+     "key": "C",
+     "text": "智能建造"
+    },
+    {
+     "key": "D",
+     "text": "智慧建造"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 400
+  },
+  {
+   "type": "single",
+   "question": "以下关于智能建造带来的影响，表述最准确全面的是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "推动工人群体职业转变"
+    },
+    {
+     "key": "B",
+     "text": "促进建筑智能设备应用"
+    },
+    {
+     "key": "C",
+     "text": "推动工人职业转变、设备应用、部品部件生产智能化及完善工地管控体系"
+    },
+    {
+     "key": "D",
+     "text": "完善智慧工地体系"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 401
+  },
+  {
+   "type": "multi",
+   "question": "智能建造的具体实施措施包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "应用建筑智能设备和机器人"
+    },
+    {
+     "key": "B",
+     "text": "通过智能生产线完成部品部件生"
+    },
+    {
+     "key": "C",
+     "text": "完全取消人工施工"
+    },
+    {
+     "key": "D",
+     "text": "建立工业互联网平台驱动的管控体系"
+    },
+    {
+     "key": "E",
+     "text": "推动智慧工地体系完备发展"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "智能建造",
+   "chapter": "智能建造与BIM",
+   "id": 402
+  },
+  {
+   "type": "multi",
+   "question": "BIM技术整合（）全流程数据，实现“所见即所得”的精准建造，显著提升效率并减少资源浪费。",
+   "options": [
+    {
+     "key": "A",
+     "text": "设计"
+    },
+    {
+     "key": "B",
+     "text": "生产"
+    },
+    {
+     "key": "C",
+     "text": "施工"
+    },
+    {
+     "key": "D",
+     "text": "运维"
+    },
+    {
+     "key": "E",
+     "text": "招标"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "BIM技术",
+   "chapter": "智能建造与BIM",
+   "id": 403
+  },
+  {
+   "type": "single",
+   "question": "石榴新村更新项目A地块总工期为（）天。",
+   "options": [
+    {
+     "key": "A",
+     "text": "300"
+    },
+    {
+     "key": "B",
+     "text": "400"
+    },
+    {
+     "key": "C",
+     "text": "500"
+    },
+    {
+     "key": "D",
+     "text": "600"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "城市更新",
+   "chapter": "质量与验收",
+   "id": 404
+  },
+  {
+   "type": "single",
+   "question": "南京秦淮区石榴新村更新项目被鉴定为D级危房并纳入城市更新安全消防项目的时间是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "2018年"
+    },
+    {
+     "key": "B",
+     "text": "2019年"
+    },
+    {
+     "key": "C",
+     "text": "2020年"
+    },
+    {
+     "key": "D",
+     "text": "2021年"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "城市更新",
+   "chapter": "质量与验收",
+   "id": 405
+  },
+  {
+   "type": "multi",
+   "question": "南京秦淮区石榴新村更新项目的施工难点包含的内容有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "项目资金短缺，施工人员不足"
+    },
+    {
+     "key": "B",
+     "text": "周边商业体密集，施工协调难度大"
+    },
+    {
+     "key": "C",
+     "text": "老城场地狭小、居民密度高、交通不便"
+    },
+    {
+     "key": "D",
+     "text": "涉及多处古迹保护点，保护工作难度大"
+    },
+    {
+     "key": "E",
+     "text": "原有地下管线老化杂乱，改造更新难度大"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "城市更新",
+   "chapter": "质量与验收",
+   "id": 406
+  },
+  {
+   "type": "judge",
+   "question": "石榴新村项目管线改造的管材，可选用普通材质管材，无需经管线权属单位认可。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "城市更新",
+   "chapter": "质量与验收",
+   "id": 407
+  },
+  {
+   "type": "judge",
+   "question": "石榴新村项目建立了24小时诉求热线+现场接待岗，对相关诉求需24小时内反馈处置结果。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "城市更新",
+   "chapter": "质量与验收",
+   "id": 408
+  },
+  {
+   "type": "single",
+   "question": "古建修缮加固应遵循的原则是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "现代更新"
+    },
+    {
+     "key": "B",
+     "text": "修旧如旧"
+    },
+    {
+     "key": "C",
+     "text": "全面重建"
+    },
+    {
+     "key": "D",
+     "text": "风格统一"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "古建修缮",
+   "chapter": "质量与验收",
+   "id": 409
+  },
+  {
+   "type": "single",
+   "question": "地下管线改造变更签证原则是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "先施后批"
+    },
+    {
+     "key": "B",
+     "text": "先干后算"
+    },
+    {
+     "key": "C",
+     "text": "先批后拖再签"
+    },
+    {
+     "key": "D",
+     "text": "边干边签"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "管线改造",
+   "chapter": "质量与验收",
+   "id": 410
+  },
+  {
+   "type": "multi",
+   "question": "老旧小区改造项目成本管控内容包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "材料集中采购"
+    },
+    {
+     "key": "B",
+     "text": "人工定岗定员"
+    },
+    {
+     "key": "C",
+     "text": "优化施工工序"
+    },
+    {
+     "key": "D",
+     "text": "变更先批后拖"
+    },
+    {
+     "key": "E",
+     "text": "随意增加工程量"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "成本管控",
+   "chapter": "合同与成本",
+   "id": 411
+  },
+  {
+   "type": "judge",
+   "question": "施工中发现未知古迹可继续施工不必上报。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "施工管理",
+   "chapter": "施工组织与管理",
+   "id": 412
+  },
+  {
+   "type": "judge",
+   "question": "老旧小区改造应邀请居民代表参与方案讨论与质量监督。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "老旧小区改造",
+   "chapter": "质量与验收",
+   "id": 413
+  },
+  {
+   "type": "single",
+   "question": "农村自建房口头施工合同（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "无效"
+    },
+    {
+     "key": "B",
+     "text": "有效"
+    },
+    {
+     "key": "C",
+     "text": "需公证才有效"
+    },
+    {
+     "key": "D",
+     "text": "需备案才有效"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "合同管理",
+   "chapter": "合同与成本",
+   "id": 414
+  },
+  {
+   "type": "single",
+   "question": "建筑工程最核心、最严重的质量纠纷是（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "装修装饰纠纷"
+    },
+    {
+     "key": "B",
+     "text": "地基基础与主体结构纠纷"
+    },
+    {
+     "key": "C",
+     "text": "材料设备纠纷"
+    },
+    {
+     "key": "D",
+     "text": "保修责任纠纷"
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "质量纠纷",
+   "chapter": "质量与验收",
+   "id": 415
+  },
+  {
+   "type": "multi",
+   "question": "施工方质量违约应承担的责任有（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "修理"
+    },
+    {
+     "key": "B",
+     "text": "重作"
+    },
+    {
+     "key": "C",
+     "text": "赔偿损失"
+    },
+    {
+     "key": "D",
+     "text": "减少报酬"
+    },
+    {
+     "key": "E",
+     "text": "直接解除合同"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "质量责任",
+   "chapter": "质量与验收",
+   "id": 416
+  },
+  {
+   "type": "judge",
+   "question": "施工方放弃质量鉴定项目，需承担举证不能后果。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "质量责任",
+   "chapter": "质量与验收",
+   "id": 417
+  },
+  {
+   "type": "judge",
+   "question": "竣工验收合格后，施工单位不再承担质量责任。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "质量责任",
+   "chapter": "质量与验收",
+   "id": 418
+  },
+  {
+   "type": "single",
+   "question": "违法分包给无资质个人，质量责任由（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "总包方单独承担"
+    },
+    {
+     "key": "B",
+     "text": "实际施工人单独承担"
+    },
+    {
+     "key": "C",
+     "text": "总包与实际施工人连带承担"
+    },
+    {
+     "key": "D",
+     "text": "建设单位自行承担"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "质量责任",
+   "chapter": "质量与验收",
+   "id": 419
+  },
+  {
+   "type": "single",
+   "question": "建设单位擅自使用未验收工程，丧失对哪部分的质量抗辩权（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "地基基础工程"
+    },
+    {
+     "key": "B",
+     "text": "主体结构工程"
+    },
+    {
+     "key": "C",
+     "text": "非主体、非地基基础一般质量问题"
+    },
+    {
+     "key": "D",
+     "text": "所有质量问题"
+    }
+   ],
+   "answer": [
+    "C"
+   ],
+   "analysis": "",
+   "topic": "质量责任",
+   "chapter": "质量与验收",
+   "id": 420
+  },
+  {
+   "type": "multi",
+   "question": "施工单位质量风险防控要点包括（）。",
+   "options": [
+    {
+     "key": "A",
+     "text": "按图按规范施工"
+    },
+    {
+     "key": "B",
+     "text": "严禁违法分包转包"
+    },
+    {
+     "key": "C",
+     "text": "妥善留存施工凭据"
+    },
+    {
+     "key": "D",
+     "text": "严格履行保修义务"
+    },
+    {
+     "key": "E",
+     "text": "简化验收程序"
+    }
+   ],
+   "answer": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "analysis": "",
+   "topic": "质量责任",
+   "chapter": "质量与验收",
+   "id": 421
+  },
+  {
+   "type": "judge",
+   "question": "地基基础与主体结构在设计使用年限内终身追责。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "A"
+   ],
+   "analysis": "",
+   "topic": "质量责任",
+   "chapter": "质量与验收",
+   "id": 422
+  },
+  {
+   "type": "judge",
+   "question": "墙体垂直度偏差超标，开发商简单修补即可免责。",
+   "options": [
+    {
+     "key": "A",
+     "text": "正确."
+    },
+    {
+     "key": "B",
+     "text": "错误."
+    }
+   ],
+   "answer": [
+    "B"
+   ],
+   "analysis": "",
+   "topic": "质量责任",
+   "chapter": "质量与验收",
+   "id": 423
+  }
+ ]
+}
